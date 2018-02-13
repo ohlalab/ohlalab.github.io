@@ -2,12 +2,12 @@
 layout: feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
 	<title>ohlalab</title>
-	<link href="http://www.ohlalab.github.io/News/atom.xml" rel="self"/>
-	<link href="http://www.ohlalab.github.io/News"/>
+	<link href="https://www.ohlalab.github.io/News/atom.xml" rel="self"/>
+	<link href="https://www.ohlalab.github.io/News"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>"http://www.ohlalab.github.io/com/News"</id>
+	<id>"https://www.ohlalab.github.io/com/News"</id>
 	<author>
 		<name>ohlalab</name>
 		<email>ohlalab</email>
@@ -15,9 +15,9 @@ layout: feed
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://www.ohlalab.github.io/com{{ post.url }}"/>
+			<link href="https://www.ohlalab.github.io/com{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>"http://wwww.ohlalab.github.io/News{{ post.id }}"</id>
+			<id>"https://wwww.ohlalab.github.io/News{{ post.id }}"</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
