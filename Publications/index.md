@@ -1,5 +1,7 @@
 ---
 layout: default
+keywords:
+description:  
 ---
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
