@@ -3,7 +3,7 @@ Theme Name: 	Ohlalab
 Theme URI: 		https://www.ohlalab.de
 Description: 	Bootstrap 4 on Wordpress
 Version: 		1.0
-Author: 		Dan Cook 
+Author: 		Dan Cook
 Author URI: 	www.danjcook.com
 Tags: 			bootstrap, basic theme
 */
@@ -51,10 +51,12 @@ hr.soften {
 /*
  * Color for navigation bar
  * --------------------------------------------------
+purple: background-color: #8A2BE2;
+
  */
 
 .navbar {
-    background-color: #8A2BE2;
+    background-color: #fff;
 
 }
 
@@ -68,8 +70,6 @@ hr.soften {
 .navbar .nav-item:hover .nav-link {
     color: #000000;
 }
-
-
 
 
 .btn-outline-success {
@@ -112,8 +112,6 @@ hr.soften {
 }
 #people_homepage_id12{
 }
-
-
 
 .about_research_home_page{
     font-size: 100%;
@@ -168,6 +166,8 @@ hr.soften {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+/* e48e58 */
 
 #well_item_1{
   background-color: #e48e58;
@@ -282,3 +282,140 @@ hr.soften {
   #border: dashed;
   border-color: #ffffff
 }
+
+
+/*
+Just my new theme.
+License - free for all.
+
+
+html,
+
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+
+.the-content{
+    padding: 10px;
+      background-color: #ffffff;
+}
+/*
+h1, h2, h3, h4, h4, h5, h6 {
+  text-shadow: 0 2px 2px rgba(0,0,0,.5);
+}
+
+
+
+
+.highlight
+{
+  background-color:  #000000 ;
+}
+.language-python{
+  color: #5a656e;
+}
+
+
+color: #aad3ff;
+
+
+*/
+
+
+a,
+a:focus
+a:hover {
+  color: #0057e7;
+}
+.cv {
+  font-weight: bold;
+}
+
+.hover_image:hover {text-decoration: none} /* Optional (avoid undesired underscore if a is used as wrapper) */
+.hide {display:none}
+/* Do the shift: */
+.hover_image:hover img:first-child{display:none}
+.hover_image:hover img:last-child{display:inline-block}
+.center-justified {
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
+.blog-item{
+  font-size: 24px;
+}
+.home-text{
+  font-size: 20px;
+}
+
+#wellitem{
+     background-color: #ffffff;
+}
+hr.faded {
+  height: 2px;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  border: 0;
+}
+
+#dropdownMenu1{
+      background-color: #ffffff;
+}
+
+blockquote {
+  background: #fff;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+blockquote:after {
+    color: #ccc;
+    content: close-quote;
+    font-size: 4em;
+    line-height: .1em;
+    margin-right: .25em;
+    vertical-align: -0.4em;}
+
+/* --- disqus css -- */
+
+#disqus_thread {
+color: #fff;
+border-style: 0px solid;
+border-color: #cccccc;
+padding: 100px;
+}
+
+#dsq-content #dsq-comments .dsq-comment-body {
+color: #fff;
+background-color: #000000;
+}
+
+.dsq-reaction-body {
+color: #fff;
+}
+
+.dsq-reaction-header cite, .dsq-reaction-header span {
+color: #ccc;
+}
+
+.dsq-reaction-retweets {
+color: #ccc;
+}
+
+/*--- end disqus css --*/

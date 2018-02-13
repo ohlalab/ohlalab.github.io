@@ -1,4 +1,4 @@
-name: dnck
+name: ohlalab
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 comments: true
