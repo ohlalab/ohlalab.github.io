@@ -1,0 +1,284 @@
+/*!
+Theme Name: 	Ohlalab
+Theme URI: 		https://www.ohlalab.de
+Description: 	Bootstrap 4 on Wordpress
+Version: 		1.0
+Author: 		Dan Cook 
+Author URI: 	www.danjcook.com
+Tags: 			bootstrap, basic theme
+*/
+
+
+s,
+html,
+body {
+  overflow-x: hidden; } /* Prevent scroll on narrow devices */
+
+body {
+  padding-top: 0px;
+  color: #000000;
+  position: relative;
+  font-family: PT SANS, Helvetica;
+}
+
+footer {
+  padding: 10px 0;
+}
+
+/*
+ * Breaker bar for category posts pages
+ * --------------------------------------------------
+ */
+hr.soften {
+  height: 3px;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,.8), rgba(0,0,0,0));
+  border: 0;
+}
+
+/*
+ * Breaker bar for category posts pages author
+ * --------------------------------------------------
+ */
+.blog-post-meta{
+    #font-weight: bold;
+	font-style: italic;
+	font-size: 80%;
+}
+
+/*
+ * Color for navigation bar
+ * --------------------------------------------------
+ */
+
+.navbar {
+    background-color: #8A2BE2;
+
+}
+
+/* change the link color */
+.navbar .navbar-nav .nav-link {
+    color: #ffffff;
+	}
+
+/* change the color of active or hovered links */
+.navbar .nav-item.active .nav-link,
+.navbar .nav-item:hover .nav-link {
+    color: #000000;
+}
+
+
+
+
+.btn-outline-success {
+    color: #000000;
+    background-image: none;
+    background-color: #eeeeee;
+    border-color: #ffffff;
+	-webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+
+.people_homepage_id{
+    padding-top: 10%;
+}
+
+#people_homepage_id1{
+}
+#people_homepage_id2{
+}
+#people_homepage_id3{
+}
+#people_homepage_id4{
+}
+#people_homepage_id5{
+}
+#people_homepage_id6{
+}
+#people_homepage_id7{
+}
+#people_homepage_id8{
+}
+#people_homepage_id9{
+}
+#people_homepage_id10{
+}
+#people_homepage_id11{
+}
+#people_homepage_id12{
+}
+
+
+
+.about_research_home_page{
+    font-size: 100%;
+    font-weight: bold
+}
+
+#research_summary_homepage{
+  outline-color: #ffffff;
+}
+
+#map{
+    height: 40%;
+    overflow: hidden;
+    padding-bottom: 10%;
+    padding-top: 10px;
+    position: relative;
+}
+
+#ohlalab_banner{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#map_pic{
+}
+
+#Research{
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+#People{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#Publications{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#News{
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+#Opportunities{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#Media{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#Contact{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#well_item_1{
+  background-color: #e48e58;
+  #border: dashed;
+  #border-color: #ffffff
+}
+#well_item_2{
+  background-color: #EDAA7D;
+  #border: dashed;
+  #border-color: #ffffff
+}
+#well_item_3{
+  background-color: #F0C7AB;
+  #border: dashed;
+  #border-color: #ffffff
+}
+#well_item_3a{
+  background-color: #FF0000;
+  #border: dashed;
+  #border-color: #ffffff
+}
+#well_item_4{
+  background-color: #C8707E;
+  #border: dashed;
+  #border-color: #ffffff
+}
+#well_item_5{
+  background-color: #E28FAD;
+  #border: dashed;
+  #border-color: #ffffff
+}
+#well_item_6{
+  background-color: #EFB4C1;
+  #border: dashed;
+  #border-color: #ffffff
+}
+
+.social_media {
+   padding-top: 5px
+}
+.social_media_paper_title{
+  font-weight: bold;
+  padding-top: 5px
+}
+/*
+ * Off Canvas
+ * --------------------------------------------------
+ */
+.feed-title{
+  display: none;
+}
+.feed-desc{
+  display: none;
+
+}
+.feed-title-image{
+  background-color: #e48e58
+
+}
+.feed-item-title{
+  font-size: 95%;
+  /*background-color: #F0C7AB*/
+}
+.feed-item-desc{
+  display: none;
+}
+
+.small_tweet_link{
+  font-size: 20px;
+}
+
+
+
+
+
+
+}
+.social_media_paper_title{
+  font-weight: bold;
+  padding-top: 5px
+}
+/*
+ * Off Canvas
+ * --------------------------------------------------
+ */
+.feed-title{
+  display: none;
+}
+.feed-desc{
+  display: none;
+
+}
+.feed-title-image{
+  background-color: #e48e58
+
+}
+.feed-item-title{
+  font-size: 95%;
+  /*background-color: #F0C7AB*/
+}
+.feed-item-desc{
+  display: none;
+}
+
+.small_tweet_link{
+  font-size: 20px;
+}
+
+#well_item_on_social_media{
+ padding-top: 10px;
+  background-color: #E28FAD;
+  #border: dashed;
+  border-color: #ffffff
+}
