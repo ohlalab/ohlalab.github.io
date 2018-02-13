@@ -2,7 +2,7 @@
 layout: post
 title: Funding taste research
 date: 2017-10-11
-comments: false
+comments: true
 keywords: Volkswagen Freies Wissen
 description: Richard Höchenberger was awarded by the DIfE for his taste research.
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Richard's PhD Defense
 date: 2017-07-30
-comments: false
+comments: true
 keywords: Modelling, multisensory integration, taste, psychophysics
 description: Richard Höchenberger completed his PhD in neuroscience.
 ---

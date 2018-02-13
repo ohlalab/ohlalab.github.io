@@ -2,7 +2,7 @@
 layout: post
 title: Die Wahrheit über Süßes
 date: 2017-12-31
-comments: false
+comments: true
 keywords:
 description: Logo der Sendung Die Wahrheit über.
 ---

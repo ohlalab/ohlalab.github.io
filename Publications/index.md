@@ -6,6 +6,9 @@ description:
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
 
+# 2018
+Coming soon...
+
 # 2017
 Ohla, K., Höchenberger, R., Freiherr, J., & Lundström, J. N. (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical senses, 43(1), 35-44. https://doi.org/10.1093/chemse/bjx068
 
