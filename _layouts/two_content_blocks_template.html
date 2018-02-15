@@ -1,24 +1,22 @@
 <!--basic template for rendering pages and posts -->
-
 {% include head.html %}
 <body>
 {% include header.html %}
-
-
-
 <div class="jumbotron jumbotron-fluid the-content">
     <div class="container">
         <div class="row">
             <div class="col-sm">
-    			{{ content }}
+                {{page.LeftContentBlock}}
     		</div>
+            <div class="col-sm">
+                {{page.RightContentBlock}}
+            </div>
     	</div>
     </div>
 </div>
 
+
 {% include footer.html %}
-
-
 
 
 {% if page.comments %}
