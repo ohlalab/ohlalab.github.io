@@ -1,0 +1,3671 @@
+{
+    "_full_name": "Kathrin Ohla",
+    "_id": "u_isjp6qa",
+    "affiliation_name": "Forschungszentrum J\u00fclich Institut f\u00fcr Neurowissenschaften und Medizin",
+    "affiliation_role_title": "group leader",
+    "badges": [
+        {
+            "context": "That's high: only 17% of researchers get that much international attention.",
+            "created": "2018-02-15T20:24:04.505882+00:00",
+            "description": "Your research has been saved and shared in 38 countries.",
+            "display_name": "Global Reach",
+            "extra_description": null,
+            "group": "engagement",
+            "id": "JyBocz7Dn4",
+            "importance": 0.8,
+            "name": "global_reach",
+            "orcid_id": null,
+            "percentile": 0.83,
+            "show_in_ui": true,
+            "sort_score": 0.664,
+            "support_finale": " countries.",
+            "support_intro": "Countries include",
+            "support_items": [
+                "Argentina",
+                "Australia",
+                "Austria",
+                "Belgium",
+                "Brazil",
+                "Canada",
+                "Chile",
+                "Colombia",
+                "Cuba",
+                "Czech Republic",
+                "Denmark",
+                "Egypt",
+                "El Salvador",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "India",
+                "Iran",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Malaysia",
+                "Mexico",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Puerto Rico",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Turkey",
+                "United Arab Emirates",
+                "United Kingdom",
+                "United States"
+            ],
+            "value": 38
+        },
+        {
+            "context": "This level of availability puts you in the top 34% of researchers.",
+            "created": "2018-02-15T20:24:05.171793+00:00",
+            "description": "55% of your research is free to read online.",
+            "display_name": "Open Access",
+            "extra_description": null,
+            "group": "openness",
+            "id": "kaHYscxX4k",
+            "importance": 0.9,
+            "name": "percent_fulltext",
+            "orcid_id": null,
+            "percentile": 0.66,
+            "show_in_ui": true,
+            "sort_score": 0.5940000000000001,
+            "support_finale": null,
+            "support_intro": "Even better, 20% of your papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). Learn more about why this is important at <a href=\"http://sparcopen.org/our-work/howopenisit/\">HowOpenIsIt.</a>",
+            "support_items": null,
+            "value": 55.00000000000001
+        },
+        {
+            "context": "Only 20% of researchers get this much attention on a publication.",
+            "created": "2018-02-15T20:24:04.443074+00:00",
+            "description": "Your top publication has been saved and shared 48 times.",
+            "display_name": "Greatest Hit",
+            "extra_description": null,
+            "group": "buzz",
+            "id": "nzETHXw2kt",
+            "importance": 0.5,
+            "name": "big_hit",
+            "orcid_id": null,
+            "percentile": 0.8,
+            "show_in_ui": true,
+            "sort_score": 0.4,
+            "support_finale": null,
+            "support_intro": "Your greatest hit online is <a href='/u/None/p/YfdueUGbEf'>Visual-gustatory interaction",
+            "support_items": [
+                "orbitofrontal and insular cortices mediate the effect of high-calorie visual food cues on taste pleasantness.</a>."
+            ],
+            "value": 48
+        },
+        {
+            "context": "Only 8% of scholars have been tweeted by someone with this many followers.",
+            "created": "2018-02-15T20:24:04.520344+00:00",
+            "description": "Someone with over 224 thousand followers has tweeted your research.",
+            "display_name": "Follower Frenzy",
+            "extra_description": null,
+            "group": "engagement",
+            "id": "GXAieQB8BV",
+            "importance": 0.2,
+            "name": "megafan",
+            "orcid_id": null,
+            "percentile": 0.92,
+            "show_in_ui": true,
+            "sort_score": 0.18400000000000002,
+            "support_finale": null,
+            "support_intro": "Thanks, <a href='http://twitter.com/JohnSharpMD'>@JohnSharpMD</a>.",
+            "support_items": null,
+            "value": 224700
+        },
+        {
+            "context": "Only 15% of researchers get this achievement.",
+            "created": "2018-02-15T20:24:04.530870+00:00",
+            "description": "You have been tweeted by a person named Richard!\n                  A recent study found this is correlated with a 19% boost in citations <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>[source]</a>.",
+            "display_name": "Rickroll",
+            "extra_description": null,
+            "group": "fun",
+            "id": "rVtajLcYuH",
+            "importance": 0.35,
+            "name": "rick_roll",
+            "orcid_id": null,
+            "percentile": 0.85,
+            "show_in_ui": true,
+            "sort_score": 0.04749999999999999,
+            "support_finale": null,
+            "support_intro": null,
+            "support_items": null,
+            "value": 1
+        },
+        {
+            "context": "Only half of researchers <a href='https://www.youtube.com/watch?v=tl6u2NASUzU'>can claim this honor.</a>",
+            "created": "2018-02-15T20:24:04.533039+00:00",
+            "description": "Your work was saved or shared by someone in Japan!",
+            "display_name": "Big in Japan",
+            "extra_description": null,
+            "group": "fun",
+            "id": "dtLyiHPPQM",
+            "importance": 0.3,
+            "name": "big_in_japan",
+            "orcid_id": null,
+            "percentile": 0.38,
+            "show_in_ui": true,
+            "sort_score": -0.136,
+            "support_finale": null,
+            "support_intro": null,
+            "support_items": null,
+            "value": 1
+        }
+    ],
+    "campaign": null,
+    "claimed_at": null,
+    "coauthors": null,
+    "created": "2018-02-15 20:24:00.039397+00:00",
+    "depsy_id": null,
+    "email": null,
+    "family_name": "Ohla",
+    "first_name": "Kathrin",
+    "fresh_orcid": false,
+    "given_names": "Kathrin",
+    "id": "u_isjp6qa",
+    "mendeley": {
+        "country_percent": {
+            "Argentina": 0.01,
+            "Australia": 0.01,
+            "Austria": 0.01,
+            "Belgium": 0.02,
+            "Brazil": 0.03,
+            "Canada": 0.06,
+            "Chile": 0.01,
+            "Colombia": 0.03,
+            "Denmark": 0.01,
+            "Egypt": 0.01,
+            "Finland": 0.01,
+            "France": 0.08,
+            "Germany": 0.13,
+            "Greece": 0.01,
+            "Hungary": 0.01,
+            "Iran": 0.01,
+            "Israel": 0.03,
+            "Italy": 0.06,
+            "Japan": 0.02,
+            "Malaysia": 0.01,
+            "Netherlands": 0.07,
+            "Poland": 0.02,
+            "Portugal": 0.01,
+            "Puerto Rico": 0.01,
+            "Spain": 0.03,
+            "Sweden": 0.02,
+            "Switzerland": 0.06,
+            "Turkey": 0.01,
+            "United Kingdom": 0.09,
+            "United States": 0.14
+        },
+        "job_title_percent": {
+            "Faculty": 0.13,
+            "Librarian": 0.01,
+            "Masters Student": 0.17,
+            "Other": 0.03,
+            "PhD Student": 0.27,
+            "Researcher": 0.2,
+            "Undergrad Student": 0.17,
+            "Unspecified": 0.02
+        },
+        "mendeley_url": null,
+        "percent_of_products": 1.0,
+        "readers": 1319,
+        "subdiscipline_percent": {
+            "Agricultural and Biological Sciences": 0.15,
+            "Arts and Humanities": 0.01,
+            "Biochemistry, Genetics and Molecular Biology": 0.02,
+            "Business, Management and Accounting": 0.01,
+            "Chemistry": 0.01,
+            "Computer Science": 0.03,
+            "Decision Sciences": 0.0,
+            "Design": 0.0,
+            "Economics, Econometrics and Finance": 0.0,
+            "Engineering": 0.05,
+            "Environmental Science": 0.0,
+            "Immunology and Microbiology": 0.0,
+            "Linguistics": 0.0,
+            "Materials Science": 0.0,
+            "Mathematics": 0.0,
+            "Medicine and Dentistry": 0.11,
+            "Neuroscience": 0.09,
+            "Nursing and Health Professions": 0.01,
+            "Pharmacology, Toxicology and Pharmaceutical Science": 0.01,
+            "Philosophy": 0.01,
+            "Physics and Astronomy": 0.01,
+            "Psychology": 0.37,
+            "Social Sciences": 0.03,
+            "Sports and Recreations": 0.01,
+            "Unspecified": 0.08
+        }
+    },
+    "num_mentions": 228,
+    "num_orcid_products": 20,
+    "num_posts": 228,
+    "num_twitter_followers": null,
+    "orcid_id": "0000-0001-7265-0449",
+    "overview_badges": [
+        {
+            "context": "That's high: only 17% of researchers get that much international attention.",
+            "created": "2018-02-15T20:24:04.505882+00:00",
+            "description": "Your research has been saved and shared in 38 countries.",
+            "display_name": "Global Reach",
+            "extra_description": null,
+            "group": "engagement",
+            "id": "JyBocz7Dn4",
+            "importance": 0.8,
+            "name": "global_reach",
+            "orcid_id": null,
+            "percentile": 0.83,
+            "show_in_ui": true,
+            "sort_score": 0.664,
+            "support_finale": " countries.",
+            "support_intro": "Countries include",
+            "support_items": [
+                "Argentina",
+                "Australia",
+                "Austria",
+                "Belgium",
+                "Brazil",
+                "Canada",
+                "Chile",
+                "Colombia",
+                "Cuba",
+                "Czech Republic",
+                "Denmark",
+                "Egypt",
+                "El Salvador",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "India",
+                "Iran",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Malaysia",
+                "Mexico",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Puerto Rico",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Turkey",
+                "United Arab Emirates",
+                "United Kingdom",
+                "United States"
+            ],
+            "value": 38
+        },
+        {
+            "context": "This level of availability puts you in the top 34% of researchers.",
+            "created": "2018-02-15T20:24:05.171793+00:00",
+            "description": "55% of your research is free to read online.",
+            "display_name": "Open Access",
+            "extra_description": null,
+            "group": "openness",
+            "id": "kaHYscxX4k",
+            "importance": 0.9,
+            "name": "percent_fulltext",
+            "orcid_id": null,
+            "percentile": 0.66,
+            "show_in_ui": true,
+            "sort_score": 0.5940000000000001,
+            "support_finale": null,
+            "support_intro": "Even better, 20% of your papers are published under a fully Open license like CC-BY, making them available for a wide range of reuse (not just reading). Learn more about why this is important at <a href=\"http://sparcopen.org/our-work/howopenisit/\">HowOpenIsIt.</a>",
+            "support_items": null,
+            "value": 55.00000000000001
+        },
+        {
+            "context": "Only 20% of researchers get this much attention on a publication.",
+            "created": "2018-02-15T20:24:04.443074+00:00",
+            "description": "Your top publication has been saved and shared 48 times.",
+            "display_name": "Greatest Hit",
+            "extra_description": null,
+            "group": "buzz",
+            "id": "nzETHXw2kt",
+            "importance": 0.5,
+            "name": "big_hit",
+            "orcid_id": null,
+            "percentile": 0.8,
+            "show_in_ui": true,
+            "sort_score": 0.4,
+            "support_finale": null,
+            "support_intro": "Your greatest hit online is <a href='/u/None/p/YfdueUGbEf'>Visual-gustatory interaction",
+            "support_items": [
+                "orbitofrontal and insular cortices mediate the effect of high-calorie visual food cues on taste pleasantness.</a>."
+            ],
+            "value": 48
+        }
+    ],
+    "percent_fulltext": 0.55,
+    "percent_open_license": 0.2,
+    "picture": "https://www.gravatar.com/avatar/?s=110&d=mm",
+    "products": [
+        {
+            "_title": "Taste quality decoding parallels taste sensations.",
+            "altmetric_id": 3781725,
+            "altmetric_score": 106.384,
+            "authors": "Crouzet SM, Busch NA, Ohla K",
+            "doi": "10.1016/j.cub.2015.01.057",
+            "events_last_week_count": 0,
+            "fulltext_url": "https://doi.org/10.1016/j.cub.2015.01.057",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "4aogQvsPqN",
+            "journal": null,
+            "license": "elsevier-specific: oa user license",
+            "mendeley": {
+                "country_percent": {
+                    "Colombia": 0.17,
+                    "France": 0.33,
+                    "Italy": 0.17,
+                    "United States": 0.33
+                },
+                "job_title_percent": {
+                    "Faculty": 0.12,
+                    "Librarian": 0.02,
+                    "Masters Student": 0.1,
+                    "Other": 0.06,
+                    "PhD Student": 0.28,
+                    "Researcher": 0.3,
+                    "Undergrad Student": 0.07,
+                    "Unspecified": 0.04
+                },
+                "mendeley_url": "http://www.mendeley.com/research/taste-quality-decoding-parallels-taste-sensations",
+                "readers": 82,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.2,
+                    "Biochemistry, Genetics and Molecular Biology": 0.02,
+                    "Chemistry": 0.02,
+                    "Computer Science": 0.04,
+                    "Engineering": 0.1,
+                    "Medicine and Dentistry": 0.04,
+                    "Neuroscience": 0.2,
+                    "Philosophy": 0.02,
+                    "Psychology": 0.26,
+                    "Social Sciences": 0.02,
+                    "Unspecified": 0.09
+                }
+            },
+            "num_mentions": 29,
+            "num_posts": 29,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "lorenzopia",
+                    "posted_on": "2015-03-16T14:00:00+00:00",
+                    "source": "blogs",
+                    "title": "how taste is encoded in patterns of neural activity in the human brain",
+                    "url": "http://lorenzopia.blogspot.com/2015/03/how-taste-is-encoded-in-patterns-of.html"
+                },
+                {
+                    "attribution": "Neuroscience",
+                    "posted_on": "2015-03-14T23:12:00+00:00",
+                    "source": "blogs",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what...",
+                    "url": "http://neurosciencestuff.tumblr.com/post/113637609263"
+                },
+                {
+                    "attribution": "Neuro-patch",
+                    "posted_on": "2015-03-13T20:20:00+00:00",
+                    "source": "blogs",
+                    "title": "Looking at qualia",
+                    "url": "http://dyslectern.info/2015/03/13/looking-at-qualia/"
+                },
+                {
+                    "attribution": "PsyPost",
+                    "posted_on": "2015-03-13T00:19:00+00:00",
+                    "source": "blogs",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "http://www.psypost.org/2015/03/mind-reading-spatial-patterns-of-brain-activity-decode-what-people-taste-32478"
+                },
+                {
+                    "attribution": "Kathrin Ohla",
+                    "posted_on": "2015-03-15T17:04:49+00:00",
+                    "source": "googleplus",
+                    "title": "No title.",
+                    "url": "https://plus.google.com/115561403168904309198/posts/gK7K3DbLimh"
+                },
+                {
+                    "attribution": "Jura Forum",
+                    "posted_on": "2017-06-20T09:42:37+00:00",
+                    "source": "news",
+                    "title": "Kathrin Ohla vom Deutschen Institut f\u00fcr Ern\u00e4hrungsforschung erh\u00e4lt Preis der Danisco Foundation",
+                    "url": "http://ct.moreover.com/?a=30957140834&p=1pl&v=1&x=UF_4Uk7yY6HiaE-c70oRkg"
+                },
+                {
+                    "attribution": "Informationsdienst Wissenschaft",
+                    "posted_on": "2017-06-20T08:06:55+00:00",
+                    "source": "news",
+                    "title": "Kathrin Ohla vom Deutschen Institut f\u00fcr Ern\u00e4hrungsforschung erh\u00e4lt Preis der Danisco Foundation",
+                    "url": "http://ct.moreover.com/?a=30956337567&p=1pl&v=1&x=s2ryKUyQjqjVQ9iKxpUeMQ"
+                },
+                {
+                    "attribution": "Informationsdienst Wissenschaft",
+                    "posted_on": "2017-04-28T09:58:08+00:00",
+                    "source": "news",
+                    "title": "Potsdamer Wissenschaftlerin erh\u00e4lt internationalen Preis f\u00fcr ihre exzellente Geschmacksforschung",
+                    "url": "http://ct.moreover.com/?a=30386546263&p=1pl&v=1&x=B2Z38rr1bK38d9M9BSslrQ"
+                },
+                {
+                    "attribution": "Today Topics ",
+                    "posted_on": "2015-03-16T07:13:01+00:00",
+                    "source": "news",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "http://www.todaytopics.com/mind-reading-spatial-patterns-of-brain-activity-decode-what-people-taste/35542/"
+                },
+                {
+                    "attribution": "Medical News Today",
+                    "posted_on": "2015-03-16T07:00:00+00:00",
+                    "source": "news",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "http://www.medicalnewstoday.com/releases/290838.php"
+                },
+                {
+                    "attribution": "Jura Forum",
+                    "posted_on": "2015-03-13T08:11:42+00:00",
+                    "source": "news",
+                    "title": "Computer liest Gedanken: Aktivit\u00e4tsmuster des Gehirns lassen erkennen, was eine Person schmeckt",
+                    "url": "http://www.juraforum.de/wissenschaft/computer-liest-gedanken-aktivitaetsmuster-des-gehirns-lassen-erkennen-was-eine-person-schmeckt-510405"
+                },
+                {
+                    "attribution": "Jura Forum",
+                    "posted_on": "2015-03-13T08:10:57+00:00",
+                    "source": "news",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "http://www.juraforum.de/wissenschaft/mind-reading-spatial-patterns-of-brain-activity-decode-what-people-taste-510404"
+                },
+                {
+                    "attribution": "Informationsdienst Wissenschaft",
+                    "posted_on": "2015-03-13T07:53:00+00:00",
+                    "source": "news",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "https://idw-online.de/en/news627353"
+                },
+                {
+                    "attribution": "Innovations Report",
+                    "posted_on": "2015-03-13T00:00:00+00:00",
+                    "source": "news",
+                    "title": "Computer liest Gedanken: Aktivit\u00e4tsmuster des Gehirns lassen erkennen, was eine Person schmeckt",
+                    "url": "http://www.innovations-report.de/html/berichte/biowissenschaften-chemie/computer-liest-gedanken-aktivitaetsmuster-des-gehirns-lassen-erkennen-was-eine-person-schmeckt.html"
+                },
+                {
+                    "attribution": "Innovations Report",
+                    "posted_on": "2015-03-13T00:00:00+00:00",
+                    "source": "news",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "http://www.innovations-report.com/html/reports/life-sciences/mind-reading-spatial-patterns-of-brain-activity-decode-what-people-taste.html"
+                },
+                {
+                    "attribution": "Medical Daily",
+                    "posted_on": "2015-03-12T19:25:47+00:00",
+                    "source": "news",
+                    "title": "Tip Of The Tongue: Taste Buds Create Electrical Activity In Brain To Encode Taste Quality",
+                    "url": "http://www.medicaldaily.com/tip-tongue-taste-buds-create-electrical-activity-brain-encode-taste-quality-325464"
+                },
+                {
+                    "attribution": "Science 2.0",
+                    "posted_on": "2015-03-12T18:13:28+00:00",
+                    "source": "news",
+                    "title": "Mind Reading: Brain Activity Of Taste Decoded",
+                    "url": "http://www.science20.com/news_articles/mind_reading_brain_activity_of_taste_decoded-153969"
+                },
+                {
+                    "attribution": "Science Daily",
+                    "posted_on": "2015-03-12T16:33:14+00:00",
+                    "source": "news",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "http://www.sciencedaily.com/releases/2015/03/150312123314.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+sciencedaily%2Ftop_news%2Ftop_health+%28ScienceDaily%3A+Top+Health+News%29"
+                },
+                {
+                    "attribution": "MedicalXpress",
+                    "posted_on": "2015-03-12T16:00:15+00:00",
+                    "source": "news",
+                    "title": "Spatial patterns of brain activity decode what people taste",
+                    "url": "http://medicalxpress.com/news/2015-03-spatial-patterns-brain-decode-people.html?src_id=alt"
+                },
+                {
+                    "attribution": "EurekAlert!",
+                    "posted_on": "2015-03-12T04:00:00+00:00",
+                    "source": "news",
+                    "title": "Mind reading: Spatial patterns of brain activity decode what people taste",
+                    "url": "http://www.eurekalert.org/pub_releases/2015-03/gioh-mrs030915.php"
+                },
+                {
+                    "attribution": "Julie McIntyre",
+                    "followers": 767,
+                    "posted_on": "2015-05-14T07:15:28+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "DrJulieMcIntyre",
+                    "url": "https://twitter.com/DrJulieMcIntyre/status/598748448100261888"
+                },
+                {
+                    "attribution": "Elizabeth Paton",
+                    "followers": 170,
+                    "posted_on": "2015-05-06T04:40:10+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ElizabethJPaton",
+                    "url": "https://twitter.com/ElizabethJPaton/status/595810263011569664"
+                },
+                {
+                    "attribution": "NeuroMetabolic Club",
+                    "followers": 519,
+                    "posted_on": "2015-05-04T18:42:48+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "NeuroClub",
+                    "url": "https://twitter.com/NeuroClub/status/595297542826553345"
+                },
+                {
+                    "attribution": "Dr. Hannah Rowland",
+                    "followers": 2748,
+                    "posted_on": "2015-03-17T11:45:45+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "HannahMRowland",
+                    "url": "https://twitter.com/HannahMRowland/status/577797969409359872"
+                },
+                {
+                    "attribution": "Lorenzo Pia",
+                    "followers": 1053,
+                    "posted_on": "2015-03-16T14:01:13+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "lorenzopia",
+                    "url": "https://twitter.com/lorenzopia/status/577469674738163712"
+                },
+                {
+                    "attribution": "Matthias Stelzig",
+                    "followers": 151,
+                    "posted_on": "2015-03-13T09:27:39+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Matthiassssss",
+                    "url": "https://twitter.com/Matthiassssss/status/576313662622838784"
+                },
+                {
+                    "attribution": "Kosuke Motoki",
+                    "followers": 181,
+                    "posted_on": "2015-03-13T07:49:03+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "boum1_",
+                    "url": "https://twitter.com/boum1_/status/576288851720867840"
+                },
+                {
+                    "attribution": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc\uff12\u4e16",
+                    "followers": 3594,
+                    "posted_on": "2015-03-13T02:13:07+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "uranus_2",
+                    "url": "https://twitter.com/uranus_2/status/576204310763032577"
+                },
+                {
+                    "attribution": "Current Biology",
+                    "followers": 15830,
+                    "posted_on": "2015-03-12T19:05:10+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "CurrentBiology",
+                    "url": "https://twitter.com/CurrentBiology/status/576096614827311104"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Google+ posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "googleplus"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 9,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 4,
+                    "source_name": "blogs"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 15,
+                    "source_name": "news"
+                }
+            ],
+            "title": "Taste quality decoding parallels taste sensations.",
+            "url": "http://doi.org/10.1016/j.cub.2015.01.057",
+            "year": "2015"
+        },
+        {
+            "_title": "Non-pharmacological cognitive enhancement",
+            "altmetric_id": 857265,
+            "altmetric_score": 68.158,
+            "authors": "Dresler, M., Sandberg, A., Ohla, K., Bublitz, C., Trenado, C., Mroczko-Wasowicz, A., K\u00fchn, S., Repantis, D.",
+            "doi": "10.1016/j.neuropharm.2012.07.002",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "ay274BZ2S7",
+            "journal": "Neuropharmacology",
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Argentina": 0.02,
+                    "Australia": 0.02,
+                    "Brazil": 0.07,
+                    "Canada": 0.07,
+                    "Chile": 0.02,
+                    "Germany": 0.15,
+                    "Hungary": 0.02,
+                    "Iran": 0.02,
+                    "Malaysia": 0.02,
+                    "Netherlands": 0.07,
+                    "Poland": 0.04,
+                    "Portugal": 0.02,
+                    "Puerto Rico": 0.02,
+                    "Spain": 0.07,
+                    "Sweden": 0.02,
+                    "Switzerland": 0.04,
+                    "United Kingdom": 0.13,
+                    "United States": 0.17
+                },
+                "job_title_percent": {
+                    "Faculty": 0.13,
+                    "Librarian": 0.01,
+                    "Masters Student": 0.21,
+                    "Other": 0.04,
+                    "PhD Student": 0.28,
+                    "Researcher": 0.14,
+                    "Undergrad Student": 0.19,
+                    "Unspecified": 0.0
+                },
+                "mendeley_url": "http://www.mendeley.com/research/nonpharmacological-cognitive-enhancement",
+                "readers": 351,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.15,
+                    "Arts and Humanities": 0.02,
+                    "Biochemistry, Genetics and Molecular Biology": 0.0,
+                    "Business, Management and Accounting": 0.01,
+                    "Chemistry": 0.01,
+                    "Computer Science": 0.04,
+                    "Decision Sciences": 0.0,
+                    "Engineering": 0.03,
+                    "Linguistics": 0.01,
+                    "Materials Science": 0.01,
+                    "Mathematics": 0.01,
+                    "Medicine and Dentistry": 0.14,
+                    "Neuroscience": 0.1,
+                    "Nursing and Health Professions": 0.0,
+                    "Pharmacology, Toxicology and Pharmaceutical Science": 0.01,
+                    "Philosophy": 0.03,
+                    "Physics and Astronomy": 0.01,
+                    "Psychology": 0.34,
+                    "Social Sciences": 0.04,
+                    "Sports and Recreations": 0.02,
+                    "Unspecified": 0.04
+                }
+            },
+            "num_mentions": 43,
+            "num_posts": 43,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "PsyPost",
+                    "posted_on": "2016-07-22T14:26:00+00:00",
+                    "source": "blogs",
+                    "title": "Research reveals why \u2018smart drugs\u2019 can impair memory and cognitive performance",
+                    "url": "http://www.psypost.org/2016/07/research-reveals-smart-drugs-can-impair-memory-cognitive-performance-43955"
+                },
+                {
+                    "attribution": "Practical Ethics",
+                    "posted_on": "2016-07-22T01:25:00+00:00",
+                    "source": "blogs",
+                    "title": "Why \u2018smart drugs\u2019 can make you less clever",
+                    "url": "http://blog.practicalethics.ox.ac.uk/2016/07/why-smart-drugs-can-make-you-less-clever/"
+                },
+                {
+                    "attribution": "Dragos-Mihai Malaia",
+                    "posted_on": "2012-07-26T11:58:15+00:00",
+                    "source": "facebook",
+                    "title": "To pill or not to pill, that is the question! A guide for dummies on \u2026",
+                    "url": "https://www.facebook.com/100001533686046/posts/474787169201272"
+                },
+                {
+                    "attribution": "Pamela VanHine",
+                    "posted_on": "2012-07-27T17:23:40+00:00",
+                    "source": "googleplus",
+                    "title": "Non-Pharmacological Cognitive Enhancement. Non-Pharmacological Cognitive Enhancement. Neuropharmacology. 2012 Jul 21; Authors: Dresler M, Sandberg A, \u2026",
+                    "url": "https://plus.google.com/111021660192213930496/posts/T1aDjkQte9D"
+                },
+                {
+                    "attribution": "Daily Mail",
+                    "posted_on": "2016-07-22T15:22:52+00:00",
+                    "source": "news",
+                    "title": "Why 'smart drugs' can make you LESS clever",
+                    "url": "http://ct.moreover.com/?a=27357202056&p=1pl&v=1&x=oCEgd6nS8y7GHdKyxDRuuA"
+                },
+                {
+                    "attribution": "MedicalXpress",
+                    "posted_on": "2016-07-22T11:15:34+00:00",
+                    "source": "news",
+                    "title": "Why 'smart drugs' can make you less clever",
+                    "url": "http://ct.moreover.com/?a=27353090788&p=1pl&v=1&x=S0uDC14BcTKakHzGhwJmfg"
+                },
+                {
+                    "attribution": "Health Medicinet",
+                    "posted_on": "2016-07-22T10:50:12+00:00",
+                    "source": "news",
+                    "title": "Intense exercise during school day can sharpen pupil minds, study shows",
+                    "url": "http://ct.moreover.com/?a=27353183869&p=1pl&v=1&x=Zg_77wlfvNuj_7t9lvuiWg"
+                },
+                {
+                    "attribution": "The Conversation",
+                    "posted_on": "2016-07-21T10:05:10+00:00",
+                    "source": "news",
+                    "title": "Why 'smart drugs' can make you less clever",
+                    "url": "http://ct.moreover.com/?a=27339954478&p=1pl&v=1&x=XVKKCChfPhl105AlDodCMQ"
+                },
+                {
+                    "posted_on": "2013-05-13T21:54:07+00:00",
+                    "source": "reddit",
+                    "title": "Non-pharmacological cognitive enhancement.",
+                    "url": "http://www.reddit.com/r/Nootropics/comments/1e9tgh/nonpharmacological_cognitive_enhancement/"
+                },
+                {
+                    "attribution": "waterpunch",
+                    "posted_on": "2012-07-26T10:12:42+00:00",
+                    "source": "reddit",
+                    "title": "A very interesting read: \"Non-Pharmacological Cognitive Enhancement\" [2012] Neuropharmacology - PubMed - (X-post from r/nootropics)",
+                    "url": "http://www.reddit.com/r/science/comments/x6lnz/a_very_interesting_read_nonpharmacological/"
+                },
+                {
+                    "posted_on": "2012-07-26T09:46:12+00:00",
+                    "source": "reddit",
+                    "title": "A new must-read: \"Non-Pharmacological Cognitive Enhancement\" [2012] Neuropharmacology - PubMed - NCBI",
+                    "url": "http://www.reddit.com/r/Nootropics/comments/x6kyz/a_new_mustread_nonpharmacological_cognitive/"
+                },
+                {
+                    "attribution": "Otakar Horak",
+                    "followers": 76,
+                    "posted_on": "2013-10-16T04:29:43+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "otakar_horak",
+                    "url": "http://twitter.com/otakar_horak/status/390333712095010816"
+                },
+                {
+                    "attribution": "Brian D. Earp",
+                    "followers": 13734,
+                    "posted_on": "2013-10-15T23:37:20+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "briandavidearp",
+                    "url": "http://twitter.com/briandavidearp/status/390260129766981632"
+                },
+                {
+                    "attribution": "Richard Minerich",
+                    "followers": 6829,
+                    "posted_on": "2013-05-14T14:41:30+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "rickasaurus",
+                    "url": "http://twitter.com/rickasaurus/statuses/334317554115948544"
+                },
+                {
+                    "attribution": "Nootropics",
+                    "followers": 908,
+                    "posted_on": "2013-05-14T00:35:07+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Nootropix",
+                    "url": "http://twitter.com/Nootropix/statuses/334104553031102465"
+                },
+                {
+                    "attribution": "Boris Nikolai Konrad",
+                    "followers": 1207,
+                    "posted_on": "2012-10-18T13:27:56+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "borisnkonrad",
+                    "url": "http://twitter.com/#!/borisnkonrad/status/258922362479734784"
+                },
+                {
+                    "attribution": "Alexander Riccio",
+                    "followers": 499,
+                    "posted_on": "2012-07-30T22:20:46+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ariccio",
+                    "url": "http://twitter.com/ariccio/statuses/230065423708745729"
+                },
+                {
+                    "attribution": "Ben Meghreblian",
+                    "followers": 1384,
+                    "posted_on": "2012-07-28T14:10:08+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "benmeg",
+                    "url": "http://twitter.com/benmeg/statuses/229217178983993345"
+                },
+                {
+                    "attribution": "Rob Di Leva",
+                    "followers": 88,
+                    "posted_on": "2012-07-27T13:45:03+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "dilevarob",
+                    "url": "http://twitter.com/dilevarob/statuses/228848475633238016"
+                },
+                {
+                    "attribution": "Dr. Andy Dalziell",
+                    "followers": 1409,
+                    "posted_on": "2012-07-27T08:29:44+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "andydalziell",
+                    "url": "http://twitter.com/andydalziell/statuses/228769126934532096"
+                },
+                {
+                    "attribution": "Cherab Lisa Geng",
+                    "followers": 1343,
+                    "posted_on": "2012-07-27T04:16:10+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "TheLateTalker",
+                    "url": "http://twitter.com/TheLateTalker/statuses/228705313577136128"
+                },
+                {
+                    "attribution": "Anjen Chenn",
+                    "followers": 219,
+                    "posted_on": "2012-07-26T23:29:02+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "achenn",
+                    "url": "http://twitter.com/achenn/statuses/228633054514659329"
+                },
+                {
+                    "attribution": "Michael Horak",
+                    "followers": 5215,
+                    "posted_on": "2012-07-26T17:12:51+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "fatmike182",
+                    "url": "http://twitter.com/fatmike182/statuses/228538383511732224"
+                },
+                {
+                    "attribution": "Daniel Sonkin, PhD",
+                    "followers": 995,
+                    "posted_on": "2012-07-26T14:40:07+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "dr_djsonkin",
+                    "url": "http://twitter.com/dr_djsonkin/statuses/228499946771451906"
+                },
+                {
+                    "attribution": "NA NN",
+                    "followers": 365,
+                    "posted_on": "2012-07-26T13:11:06+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "nanewsnetwork",
+                    "url": "http://twitter.com/nanewsnetwork/statuses/228477546671517696"
+                },
+                {
+                    "attribution": "marianasoffer",
+                    "followers": 369,
+                    "posted_on": "2012-07-26T12:23:28+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "marianasoffer",
+                    "url": "http://twitter.com/marianasoffer/statuses/228465559577194496"
+                },
+                {
+                    "attribution": "Greg Downey",
+                    "followers": 2266,
+                    "posted_on": "2012-07-26T11:55:34+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "GregDowney1",
+                    "url": "http://twitter.com/GregDowney1/statuses/228458535317540865"
+                },
+                {
+                    "attribution": "Jack Kruse",
+                    "followers": 7326,
+                    "posted_on": "2012-07-26T11:51:16+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "DigiSurg",
+                    "url": "http://twitter.com/DigiSurg/statuses/228457455322030080"
+                },
+                {
+                    "attribution": "Richard Vaughn MD",
+                    "followers": 7825,
+                    "posted_on": "2012-07-26T11:44:57+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "rvaughnmd",
+                    "url": "http://twitter.com/rvaughnmd/statuses/228455866481905664"
+                },
+                {
+                    "attribution": "Jesse S. Summers",
+                    "followers": 142,
+                    "posted_on": "2012-07-26T11:24:46+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "jssummers",
+                    "url": "http://twitter.com/jssummers/statuses/228450787318177792"
+                },
+                {
+                    "attribution": "Transcurve",
+                    "followers": 195,
+                    "posted_on": "2012-07-26T11:19:25+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Transcurve",
+                    "url": "http://twitter.com/Transcurve/statuses/228449438174162945"
+                },
+                {
+                    "attribution": "Medicalskeptic",
+                    "followers": 8763,
+                    "posted_on": "2012-07-26T11:17:55+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "medskep",
+                    "url": "http://twitter.com/medskep/statuses/228449063740272640"
+                },
+                {
+                    "attribution": "John Sharp MD",
+                    "followers": 224700,
+                    "posted_on": "2012-07-26T11:14:24+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "JohnSharpMD",
+                    "url": "http://twitter.com/JohnSharpMD/statuses/228448175634145280"
+                },
+                {
+                    "attribution": "Jorge",
+                    "followers": 46,
+                    "posted_on": "2012-07-26T10:30:30+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "jmaicas",
+                    "url": "http://twitter.com/jmaicas/statuses/228437127841599488"
+                },
+                {
+                    "attribution": "Yuri Laps",
+                    "followers": 63,
+                    "posted_on": "2012-07-26T10:24:35+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "yurihbl",
+                    "url": "http://twitter.com/yurihbl/statuses/228435639018848257"
+                },
+                {
+                    "attribution": "Michelle Bannoura",
+                    "followers": 21,
+                    "posted_on": "2012-07-26T10:11:17+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "drbhvcc",
+                    "url": "http://twitter.com/drbhvcc/statuses/228432291670679552"
+                },
+                {
+                    "attribution": "liz skillings",
+                    "followers": 603,
+                    "posted_on": "2012-07-26T09:56:58+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "lovelybrownie",
+                    "url": "http://twitter.com/lovelybrownie/statuses/228428691456266240"
+                },
+                {
+                    "attribution": "KabosVdVliet",
+                    "posted_on": "2012-07-26T09:52:22+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "KabosVdVliet",
+                    "url": "http://twitter.com/KabosVdVliet/statuses/228427535044726785"
+                },
+                {
+                    "attribution": "Micah Allen",
+                    "followers": 18151,
+                    "posted_on": "2012-07-26T09:15:01+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "neuroconscience",
+                    "url": "http://twitter.com/neuroconscience/statuses/228418135227760640"
+                },
+                {
+                    "attribution": "Nick Davis",
+                    "followers": 3795,
+                    "posted_on": "2012-07-26T09:12:24+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "n_j_davis",
+                    "url": "http://twitter.com/n_j_davis/statuses/228417475539247104"
+                },
+                {
+                    "attribution": "Maria Panagiotidi",
+                    "followers": 3821,
+                    "posted_on": "2012-07-26T09:08:03+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "mariapage",
+                    "url": "http://twitter.com/mariapage/statuses/228416381857722368"
+                },
+                {
+                    "attribution": "Astrid Schepman",
+                    "followers": 1808,
+                    "posted_on": "2012-07-26T09:06:49+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "astridschep",
+                    "url": "http://twitter.com/astridschep/statuses/228416069566611456"
+                },
+                {
+                    "attribution": "Neuroskeptic",
+                    "followers": 123909,
+                    "posted_on": "2012-07-26T09:02:33+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Neuro_Skeptic",
+                    "url": "http://twitter.com/Neuro_Skeptic/statuses/228414996063862785"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Google+ posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "googleplus"
+                },
+                {
+                    "display_name": "Facebook pages",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "facebook"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 32,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 2,
+                    "source_name": "blogs"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 4,
+                    "source_name": "news"
+                },
+                {
+                    "display_name": "Reddit posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "reddit"
+                }
+            ],
+            "title": "Non-pharmacological cognitive enhancement",
+            "url": "http://doi.org/10.1016/j.neuropharm.2012.07.002",
+            "year": "2013"
+        },
+        {
+            "_title": "Visual-gustatory interaction: orbitofrontal and insular cortices mediate the effect of high-calorie visual food cues on taste pleasantness.",
+            "altmetric_id": 649297,
+            "altmetric_score": 54.248,
+            "authors": "Ohla K, Toepel U, le Coutre J, Hudry J",
+            "doi": "10.1371/journal.pone.0032434",
+            "events_last_week_count": 0,
+            "fulltext_url": "https://doi.org/10.1371/journal.pone.0032434",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "YfdueUGbEf",
+            "journal": null,
+            "license": "cc-by",
+            "mendeley": {
+                "country_percent": {
+                    "Canada": 0.13,
+                    "Germany": 0.13,
+                    "Israel": 0.13,
+                    "Netherlands": 0.25,
+                    "Switzerland": 0.13,
+                    "United States": 0.25
+                },
+                "job_title_percent": {
+                    "Faculty": 0.12,
+                    "Librarian": 0.01,
+                    "Masters Student": 0.13,
+                    "Other": 0.03,
+                    "PhD Student": 0.34,
+                    "Researcher": 0.2,
+                    "Undergrad Student": 0.15,
+                    "Unspecified": 0.01
+                },
+                "mendeley_url": "http://www.mendeley.com/research/visualgustatory-interaction-orbitofrontal-insular-cortices-mediate-effect-highcalorie-visual-food-cu",
+                "readers": 89,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.22,
+                    "Engineering": 0.03,
+                    "Medicine and Dentistry": 0.09,
+                    "Neuroscience": 0.07,
+                    "Nursing and Health Professions": 0.01,
+                    "Psychology": 0.46,
+                    "Social Sciences": 0.03,
+                    "Unspecified": 0.08
+                }
+            },
+            "num_mentions": 48,
+            "num_posts": 48,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "BPS Research Digest",
+                    "posted_on": "2012-03-20T11:37:00+00:00",
+                    "source": "blogs",
+                    "title": "Extras",
+                    "url": "http://bps-research-digest.blogspot.co.uk/2012/03/extras_20.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+BpsResearchDigest+(BPS+Research+Digest)"
+                },
+                {
+                    "attribution": "Inkfish",
+                    "posted_on": "2012-03-16T15:24:00+00:00",
+                    "source": "blogs",
+                    "title": "How to Slim Down, Manage Your Man, and Stay Tight with Your Girlfriends!",
+                    "url": "http://inkfish.fieldofscience.com/2012/03/how-to-slim-down-manage-your-man-and.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Inkfishblog+%28Inkfish%29"
+                },
+                {
+                    "attribution": "Senada Mesic",
+                    "posted_on": "2012-03-17T17:10:30+00:00",
+                    "source": "googleplus",
+                    "title": "Seeing pictures of high-calorie foods enhances pleasant taste perception, regardless of what you eat... Seeing \u2026",
+                    "url": "https://plus.google.com/113892559657260474744/posts/XcFvYbf2Exs"
+                },
+                {
+                    "attribution": "Damiano Cerasuolo",
+                    "posted_on": "2012-03-17T08:47:01+00:00",
+                    "source": "googleplus",
+                    "title": "Seeing pictures of high-calorie foods enhances pleasant taste perception, regardless of what you eat... Seeing \u2026",
+                    "url": "https://plus.google.com/116476688152627960210/posts/De2axd2NszD"
+                },
+                {
+                    "attribution": "Ute Panzenboeck",
+                    "posted_on": "2012-03-16T22:02:49+00:00",
+                    "source": "googleplus",
+                    "title": "Seeing pictures of high-calorie foods enhances pleasant taste perception, regardless of what you eat... Seeing \u2026",
+                    "url": "https://plus.google.com/111093932563778298599/posts/9SbGS4yU6N4"
+                },
+                {
+                    "attribution": "Noah Gray",
+                    "posted_on": "2012-03-16T21:24:01+00:00",
+                    "source": "googleplus",
+                    "title": "Seeing pictures of high-calorie foods enhances pleasant taste perception, regardless of what you eat... Seeing \u2026",
+                    "url": "https://plus.google.com/113048958837490986076/posts/cir6xzJRnCS"
+                },
+                {
+                    "attribution": "International Business Times",
+                    "posted_on": "2013-12-14T17:21:09+00:00",
+                    "source": "news",
+                    "title": "Tricking The Tongue: How Biotechnology Might Let Us Cut Sugar And Salt, But Keep The Taste",
+                    "url": "http://www.ibtimes.com/tricking-tongue-how-biotechnology-might-let-us-cut-sugar-salt-keep-taste-1508856"
+                },
+                {
+                    "attribution": "Per Nielsen",
+                    "followers": 184,
+                    "posted_on": "2017-01-17T18:35:51+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "PernielsenCom",
+                    "url": "http://twitter.com/PernielsenCom/statuses/821425817951551490"
+                },
+                {
+                    "attribution": "Lauren Rogers",
+                    "followers": 2815,
+                    "posted_on": "2012-06-11T13:52:13+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "LaurenLRogers",
+                    "url": "http://twitter.com/LaurenLRogers/statuses/212180438033248259"
+                },
+                {
+                    "attribution": "ENDO Kaori",
+                    "followers": 28,
+                    "posted_on": "2012-06-07T03:11:35+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "endokaori",
+                    "url": "http://twitter.com/#!/endokaori/status/210569667331375104"
+                },
+                {
+                    "attribution": "\u3042\u308a\u30fc\u3061\u3047",
+                    "followers": 2799,
+                    "posted_on": "2012-06-07T03:04:16+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ALC_V",
+                    "url": "http://twitter.com/#!/ALC_V/status/210567824685547524"
+                },
+                {
+                    "attribution": "Yoshi",
+                    "followers": 936,
+                    "posted_on": "2012-06-07T02:54:57+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "yoshi871",
+                    "url": "http://twitter.com/#!/yoshi871/status/210565480551944193"
+                },
+                {
+                    "attribution": "\u5e8a\u6383\u9664\u306e\u738b\u69d8\u30be\u30a6\u30ad\u30f3\u30b0\u306a\u3079\u3055\u3093",
+                    "followers": 53,
+                    "posted_on": "2012-06-06T09:34:12+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "melmelponpon",
+                    "url": "http://twitter.com/melmelponpon/statuses/210303568647954432"
+                },
+                {
+                    "attribution": "zak",
+                    "followers": 1428,
+                    "posted_on": "2012-06-06T08:09:00+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "zakkas783",
+                    "url": "http://twitter.com/zakkas783/statuses/210282127214915584"
+                },
+                {
+                    "attribution": "\u308a\u30fc\u3079\u3000(@\u30ef\u30f3\u30d1\u30f3\u30de\u30f3\u5f85\u6a5f)",
+                    "followers": 367,
+                    "posted_on": "2012-06-06T02:53:13+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "liebe_t_f",
+                    "url": "http://twitter.com/liebe_t_f/statuses/210202657204355072"
+                },
+                {
+                    "attribution": "Christian M\u00e9ndez",
+                    "followers": 51,
+                    "posted_on": "2012-06-03T20:53:20+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ChmendezZ",
+                    "url": "http://twitter.com/ChmendezZ/statuses/209387315737542657"
+                },
+                {
+                    "attribution": "sebriano",
+                    "followers": 1086,
+                    "posted_on": "2012-06-03T17:40:44+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "sebriano",
+                    "url": "http://twitter.com/sebriano/statuses/209338842841481219"
+                },
+                {
+                    "attribution": "Kate Schlag",
+                    "followers": 354,
+                    "posted_on": "2012-04-16T13:43:25+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "KateSchlag",
+                    "url": "http://twitter.com/#!/KateSchlag/status/191884503692738564"
+                },
+                {
+                    "attribution": "Marc Veltman",
+                    "followers": 706,
+                    "posted_on": "2012-03-21T19:51:38+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "PUURVELTMAN",
+                    "url": "http://twitter.com/#!/PUURVELTMAN/status/182555084721364992"
+                },
+                {
+                    "attribution": "Fabrice Gabarrot",
+                    "followers": 563,
+                    "posted_on": "2012-03-21T17:04:40+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "FGabarrot",
+                    "url": "http://twitter.com/#!/FGabarrot/status/182513064875278336"
+                },
+                {
+                    "attribution": "Carina Alm",
+                    "followers": 1595,
+                    "posted_on": "2012-03-21T12:51:09+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "CarinaAlm",
+                    "url": "http://twitter.com/#!/CarinaAlm/status/182449266403450883"
+                },
+                {
+                    "attribution": "Ayumi Yamada",
+                    "followers": 144,
+                    "posted_on": "2012-03-21T08:17:35+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ayumyama",
+                    "url": "http://twitter.com/#!/ayumyama/status/182380422804668416"
+                },
+                {
+                    "attribution": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc\uff12\u4e16",
+                    "followers": 3589,
+                    "posted_on": "2012-03-21T01:33:46+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "uranus_2",
+                    "url": "http://twitter.com/#!/uranus_2/status/182278797754773506"
+                },
+                {
+                    "attribution": "soshi mori",
+                    "followers": 735,
+                    "posted_on": "2012-03-20T14:12:40+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "tyorison",
+                    "url": "http://twitter.com/#!/tyorison/status/182107393524645888"
+                },
+                {
+                    "attribution": "Donald J. Toriniku",
+                    "followers": 442,
+                    "posted_on": "2012-03-20T13:20:19+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "poulet_pensant",
+                    "url": "http://twitter.com/#!/poulet_pensant/status/182094219333222400"
+                },
+                {
+                    "attribution": "Rie TORIYAMA",
+                    "followers": 701,
+                    "posted_on": "2012-03-20T13:14:13+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "riet911",
+                    "url": "http://twitter.com/#!/riet911/status/182092682158538754"
+                },
+                {
+                    "attribution": "Yuuko Morimoto",
+                    "followers": 1716,
+                    "posted_on": "2012-03-20T13:12:11+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "myuuko",
+                    "url": "http://twitter.com/#!/myuuko/status/182092172185702400"
+                },
+                {
+                    "attribution": "Masataka Nakayama",
+                    "followers": 102,
+                    "posted_on": "2012-03-20T11:47:29+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "p_grin_rin",
+                    "url": "http://twitter.com/#!/p_grin_rin/status/182070854748868611"
+                },
+                {
+                    "attribution": "Joe Collins",
+                    "followers": 2427,
+                    "posted_on": "2012-03-17T08:29:59+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "psychWork",
+                    "url": "http://twitter.com/#!/psychWork/status/180933988364460032"
+                },
+                {
+                    "attribution": "Ivan Wolffers",
+                    "followers": 9118,
+                    "posted_on": "2012-03-17T07:15:02+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "IvanWolffers",
+                    "url": "http://twitter.com/#!/IvanWolffers/status/180915129968365569"
+                },
+                {
+                    "attribution": "Ivan Wolffers",
+                    "followers": 9118,
+                    "posted_on": "2012-03-17T07:14:00+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "IvanWolffers",
+                    "url": "http://twitter.com/#!/IvanWolffers/status/180914869070073856"
+                },
+                {
+                    "attribution": "Ivan Wolffers",
+                    "followers": 9118,
+                    "posted_on": "2012-03-17T07:13:14+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "IvanWolffers",
+                    "url": "http://twitter.com/#!/IvanWolffers/status/180914677079998464"
+                },
+                {
+                    "attribution": "QMUPsychology",
+                    "followers": 1359,
+                    "posted_on": "2012-03-17T00:46:42+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "QMUPsychology",
+                    "url": "http://twitter.com/#!/QMUPsychology/status/180817399283597312"
+                },
+                {
+                    "attribution": "Amanda Buckiewicz",
+                    "followers": 1272,
+                    "posted_on": "2012-03-16T22:12:53+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "amandafantastic",
+                    "url": "http://twitter.com/#!/amandafantastic/status/180778692375613441"
+                },
+                {
+                    "attribution": "Whitney Hansen",
+                    "followers": 137,
+                    "posted_on": "2012-03-16T22:03:00+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "WhitneyH_pHd",
+                    "url": "http://twitter.com/#!/WhitneyH_pHd/status/180776203161059329"
+                },
+                {
+                    "attribution": "Andy Snyder",
+                    "followers": 61521,
+                    "posted_on": "2012-03-16T21:36:35+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "mobilewashunit",
+                    "url": "http://twitter.com/#!/mobilewashunit/status/180769557911322624"
+                },
+                {
+                    "attribution": "Are Brean",
+                    "followers": 1711,
+                    "posted_on": "2012-03-16T14:24:26+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "AreBrean",
+                    "url": "http://twitter.com/#!/AreBrean/status/180660802565586944"
+                },
+                {
+                    "attribution": "Robbie Cappuccio",
+                    "followers": 286,
+                    "posted_on": "2012-03-15T22:51:47+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "RobbyCapp",
+                    "url": "http://twitter.com/#!/RobbyCapp/status/180426091700305920"
+                },
+                {
+                    "attribution": "Barb Stuckey",
+                    "followers": 215,
+                    "posted_on": "2012-03-15T22:12:08+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "tastewhatumiss",
+                    "url": "http://twitter.com/#!/tastewhatumiss/status/180416116550668288"
+                },
+                {
+                    "attribution": "Anna Mas-Casades\u00fas",
+                    "followers": 667,
+                    "posted_on": "2012-03-15T18:27:50+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "annamassus",
+                    "url": "http://twitter.com/#!/annamassus/status/180359669347397633"
+                },
+                {
+                    "attribution": "Jon Lieff MD",
+                    "followers": 2799,
+                    "posted_on": "2012-03-15T16:53:04+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "jonlieffmd",
+                    "url": "http://twitter.com/#!/jonlieffmd/status/180335817749831681"
+                },
+                {
+                    "attribution": "Mark Tompson",
+                    "followers": 12,
+                    "posted_on": "2012-03-15T08:07:50+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "MarkTompson",
+                    "url": "http://twitter.com/#!/MarkTompson/status/180203641804816385"
+                },
+                {
+                    "attribution": "Mick Watson",
+                    "followers": 14211,
+                    "posted_on": "2012-03-14T21:59:13+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "BioMickWatson",
+                    "url": "http://twitter.com/#!/BioMickWatson/status/180050476157501440"
+                },
+                {
+                    "attribution": "agroecotech",
+                    "followers": 1296,
+                    "posted_on": "2012-03-14T21:31:27+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "agroecotech",
+                    "url": "http://twitter.com/#!/agroecotech/status/180043488635797504"
+                },
+                {
+                    "attribution": "Mario Christodoulou",
+                    "followers": 432,
+                    "posted_on": "2012-03-14T21:30:06+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Mariocracy",
+                    "url": "http://twitter.com/#!/Mariocracy/status/180043148410630146"
+                },
+                {
+                    "attribution": "Joseph Piro",
+                    "followers": 524,
+                    "posted_on": "2012-03-14T21:28:41+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "profpiro",
+                    "url": "http://twitter.com/#!/profpiro/status/180042794319101955"
+                },
+                {
+                    "attribution": "PLOS ONE",
+                    "followers": 93002,
+                    "posted_on": "2012-03-14T21:12:10+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "PLoSONE",
+                    "url": "http://twitter.com/#!/PLoSONE/status/180038636694274050"
+                },
+                {
+                    "attribution": "CCSM ScienceMedia.ca",
+                    "followers": 633,
+                    "posted_on": "2012-03-14T21:10:29+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "CSMCanada",
+                    "url": "http://twitter.com/#!/CSMCanada/status/180038214709542912"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Google+ posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 4,
+                    "source_name": "googleplus"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 41,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 2,
+                    "source_name": "blogs"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "news"
+                }
+            ],
+            "title": "Visual-gustatory interaction: orbitofrontal and insular cortices mediate the effect of high-calorie visual food cues on taste pleasantness.",
+            "url": "http://doi.org/10.1371/journal.pone.0032434",
+            "year": "2012"
+        },
+        {
+            "_title": "Ghrelin modulates encoding-related brain function without enhancing memory formation in humans.",
+            "altmetric_id": 9564443,
+            "altmetric_score": 23.75,
+            "authors": "Kunath N, M\u00fcller NC, Tonon M, Konrad BN, Pawlowski M, Kopczak A, Elbau I, Uhr M, K\u00fchn S, Repantis D et al.",
+            "doi": "10.1016/j.neuroimage.2016.07.016",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "6AwDp33gdo",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Germany": 1.0
+                },
+                "job_title_percent": {
+                    "Faculty": 0.13,
+                    "Masters Student": 0.07,
+                    "PhD Student": 0.33,
+                    "Researcher": 0.4,
+                    "Undergrad Student": 0.03,
+                    "Unspecified": 0.03
+                },
+                "mendeley_url": "http://www.mendeley.com/research/ghrelin-modulates-encodingrelated-brain-function-without-enhancing-memory-formation-humans",
+                "readers": 30,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.17,
+                    "Biochemistry, Genetics and Molecular Biology": 0.07,
+                    "Computer Science": 0.03,
+                    "Engineering": 0.03,
+                    "Medicine and Dentistry": 0.23,
+                    "Neuroscience": 0.13,
+                    "Psychology": 0.17,
+                    "Social Sciences": 0.03,
+                    "Sports and Recreations": 0.03,
+                    "Unspecified": 0.1
+                }
+            },
+            "num_mentions": 6,
+            "num_posts": 6,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "MTA Dialog",
+                    "posted_on": "2016-08-13T11:00:00+00:00",
+                    "source": "news",
+                    "title": "Leere B\u00e4uche lernen gerne?",
+                    "url": "http://ct.moreover.com/?a=27601095122&p=1pl&v=1&x=GwSMz0eALsS7lJKoyXJ25A"
+                },
+                {
+                    "attribution": "Scinexx",
+                    "posted_on": "2016-08-11T15:42:21+00:00",
+                    "source": "news",
+                    "title": "Hunger macht nicht lernf\u00e4higer",
+                    "url": "http://ct.moreover.com/?a=27580278347&p=1pl&v=1&x=LXcaL_n8U6wygtGXQONM7w"
+                },
+                {
+                    "attribution": "LaborPraxis",
+                    "posted_on": "2016-08-11T10:41:10+00:00",
+                    "source": "news",
+                    "title": "Hunger & Denkleistung",
+                    "url": "http://ct.moreover.com/?a=27577918237&p=1pl&v=1&x=nUEXR0Yu2AJXQZfzrpyNDQ"
+                },
+                {
+                    "attribution": "MRI Papers",
+                    "followers": 764,
+                    "posted_on": "2016-11-05T10:33:33+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "mripapers",
+                    "url": "http://twitter.com/mripapers/statuses/794850129240961024"
+                },
+                {
+                    "attribution": "Psych2 Evidence",
+                    "followers": 994,
+                    "posted_on": "2016-07-13T12:03:37+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "psych2evidence",
+                    "url": "http://twitter.com/psych2evidence/statuses/753198194104807424"
+                },
+                {
+                    "attribution": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc\uff12\u4e16",
+                    "followers": 3550,
+                    "posted_on": "2016-07-11T06:03:03+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "uranus_2",
+                    "url": "http://twitter.com/uranus_2/statuses/752382677580337152"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "news"
+                }
+            ],
+            "title": "Ghrelin modulates encoding-related brain function without enhancing memory formation in humans.",
+            "url": "http://doi.org/10.1016/j.neuroimage.2016.07.016",
+            "year": "2016"
+        },
+        {
+            "_title": "Food-pics: an image database for experimental research on eating and appetite.",
+            "altmetric_id": 2419218,
+            "altmetric_score": 21.774,
+            "authors": "Blechert J, Meule A, Busch NA, Ohla K",
+            "doi": "10.3389/fpsyg.2014.00617",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://journal.frontiersin.org/article/10.3389/fpsyg.2014.00617/pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "dX8Uao7aPa",
+            "journal": null,
+            "license": "cc-by",
+            "mendeley": {
+                "country_percent": {
+                    "Austria": 0.05,
+                    "Canada": 0.1,
+                    "Colombia": 0.05,
+                    "Denmark": 0.05,
+                    "France": 0.1,
+                    "Greece": 0.05,
+                    "Iran": 0.05,
+                    "Italy": 0.05,
+                    "Netherlands": 0.05,
+                    "Switzerland": 0.1,
+                    "United Kingdom": 0.15,
+                    "United States": 0.2
+                },
+                "job_title_percent": {
+                    "Faculty": 0.07,
+                    "Masters Student": 0.25,
+                    "Other": 0.01,
+                    "PhD Student": 0.27,
+                    "Researcher": 0.14,
+                    "Undergrad Student": 0.22,
+                    "Unspecified": 0.04
+                },
+                "mendeley_url": "http://www.mendeley.com/research/foodpics-image-database-experimental-research-eating-appetite",
+                "readers": 228,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.08,
+                    "Arts and Humanities": 0.01,
+                    "Biochemistry, Genetics and Molecular Biology": 0.01,
+                    "Business, Management and Accounting": 0.01,
+                    "Computer Science": 0.04,
+                    "Decision Sciences": 0.01,
+                    "Economics, Econometrics and Finance": 0.0,
+                    "Engineering": 0.03,
+                    "Medicine and Dentistry": 0.1,
+                    "Neuroscience": 0.07,
+                    "Nursing and Health Professions": 0.02,
+                    "Psychology": 0.49,
+                    "Social Sciences": 0.03,
+                    "Sports and Recreations": 0.01,
+                    "Unspecified": 0.1
+                }
+            },
+            "num_mentions": 18,
+            "num_posts": 18,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Krebs-Nachrichten",
+                    "posted_on": "2014-06-23T11:02:00+00:00",
+                    "source": "blogs",
+                    "title": "Bilder von Nahrungsmitteln als Forschungsgegenstand",
+                    "url": "http://www.krebs-nachrichten.de/kam-details/bilder-von-nahrungsmitteln-als-forschungsgegenstand.html"
+                },
+                {
+                    "attribution": "Innovations Report",
+                    "posted_on": "2014-06-23T00:00:00+00:00",
+                    "source": "news",
+                    "title": "Das Auge isst mit - Bilder von Nahrungsmitteln als Forschungsgegenstand",
+                    "url": "http://www.innovations-report.de/html/berichte/biowissenschaften-chemie/das-auge-isst-mit-bilder-von-nahrungsmitteln-als-forschungsgegenstand.html"
+                },
+                {
+                    "attribution": "Martin Yeomans",
+                    "posted_on": "2014-06-22T00:00:00+00:00",
+                    "source": "peer_reviews",
+                    "title": "",
+                    "url": "https://publons.com/publon/review/CuZpeGKt/"
+                },
+                {
+                    "attribution": "Michelle Dalton",
+                    "posted_on": "2014-06-22T00:00:00+00:00",
+                    "source": "peer_reviews",
+                    "title": "",
+                    "url": "https://publons.com/publon/review/Q1KzuBhv/"
+                },
+                {
+                    "attribution": "Amy Claire Reichelt",
+                    "posted_on": "2014-06-22T00:00:00+00:00",
+                    "source": "peer_reviews",
+                    "title": "",
+                    "url": "https://publons.com/publon/review/6MdeQ9qj/"
+                },
+                {
+                    "attribution": "review man (Buy Bitcoin)",
+                    "followers": 602,
+                    "posted_on": "2017-05-08T11:55:25+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "twitmyreview",
+                    "url": "http://twitter.com/twitmyreview/statuses/861550101063454720"
+                },
+                {
+                    "attribution": "review man (Buy Bitcoin)",
+                    "followers": 602,
+                    "posted_on": "2017-05-08T11:50:51+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "twitmyreview",
+                    "url": "http://twitter.com/twitmyreview/statuses/861548952147152896"
+                },
+                {
+                    "attribution": "Josef \u0160lerka",
+                    "followers": 36629,
+                    "posted_on": "2015-09-06T15:05:05+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "josefslerka",
+                    "url": "http://twitter.com/josefslerka/statuses/640541234642165760"
+                },
+                {
+                    "attribution": "Nick Davis",
+                    "followers": 3799,
+                    "posted_on": "2014-09-23T17:38:11+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "n_j_davis",
+                    "url": "https://twitter.com/n_j_davis/status/514468787480166400"
+                },
+                {
+                    "attribution": "Carlos Velasco",
+                    "followers": 2192,
+                    "posted_on": "2014-09-23T16:17:45+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "velascop",
+                    "url": "https://twitter.com/velascop/status/514448542430404609"
+                },
+                {
+                    "attribution": "Health Literacy",
+                    "followers": 6036,
+                    "posted_on": "2014-07-30T04:20:12+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Hlth_Literacy",
+                    "url": "https://twitter.com/Hlth_Literacy/status/494336632271933442"
+                },
+                {
+                    "attribution": "Andy Woods",
+                    "followers": 1089,
+                    "posted_on": "2014-07-14T10:16:45+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "AndyTWoods",
+                    "url": "https://twitter.com/AndyTWoods/status/488628154706436096"
+                },
+                {
+                    "attribution": "Carlos Velasco",
+                    "followers": 2192,
+                    "posted_on": "2014-07-14T07:46:54+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "velascop",
+                    "url": "https://twitter.com/velascop/status/488590444985872385"
+                },
+                {
+                    "attribution": "Ben Young",
+                    "followers": 4061,
+                    "posted_on": "2014-07-14T07:43:45+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "BenjaminDYoung",
+                    "url": "https://twitter.com/BenjaminDYoung/status/488589654221144064"
+                },
+                {
+                    "attribution": "Health Literacy",
+                    "followers": 6036,
+                    "posted_on": "2014-07-13T16:40:19+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Hlth_Literacy",
+                    "url": "https://twitter.com/Hlth_Literacy/status/488362295534551040"
+                },
+                {
+                    "attribution": "Dagmar von Cramm",
+                    "followers": 30,
+                    "posted_on": "2014-06-23T08:37:51+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "CrammVon",
+                    "url": "https://twitter.com/CrammVon/status/480993121720082432"
+                },
+                {
+                    "attribution": "Michael Inzlicht",
+                    "followers": 3745,
+                    "posted_on": "2014-06-08T18:31:28+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "minzlicht",
+                    "url": "http://twitter.com/minzlicht/status/475706692827488256"
+                },
+                {
+                    "attribution": "Elliot Berkman",
+                    "followers": 2440,
+                    "posted_on": "2014-06-08T15:02:48+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Psychologician",
+                    "url": "http://twitter.com/Psychologician/status/475654180887998465"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 13,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "Public peer reviews",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "peer_reviews"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "blogs"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "news"
+                }
+            ],
+            "title": "Food-pics: an image database for experimental research on eating and appetite.",
+            "url": "http://doi.org/10.3389/fpsyg.2014.00617",
+            "year": "2014"
+        },
+        {
+            "_title": "Higher sensitivity to sweet and salty taste in obese compared to lean individuals.",
+            "altmetric_id": 14795222,
+            "altmetric_score": 21.092,
+            "authors": "Hardikar S, H\u00f6chenberger R, Villringer A, Ohla K",
+            "doi": "10.1016/j.appet.2016.12.017",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "gi4h42LnaY",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "France": 0.33,
+                    "Germany": 0.33,
+                    "Spain": 0.33
+                },
+                "job_title_percent": {
+                    "Faculty": 0.13,
+                    "Librarian": 0.04,
+                    "Masters Student": 0.21,
+                    "Other": 0.04,
+                    "PhD Student": 0.42,
+                    "Undergrad Student": 0.13,
+                    "Unspecified": 0.04
+                },
+                "mendeley_url": "http://www.mendeley.com/research/higher-sensitivity-sweet-salty-taste-obese-compared-lean-individuals",
+                "readers": 24,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.33,
+                    "Biochemistry, Genetics and Molecular Biology": 0.08,
+                    "Business, Management and Accounting": 0.04,
+                    "Medicine and Dentistry": 0.17,
+                    "Neuroscience": 0.04,
+                    "Psychology": 0.17,
+                    "Unspecified": 0.17
+                }
+            },
+            "num_mentions": 23,
+            "num_posts": 23,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "PsyPost",
+                    "posted_on": "2017-05-27T18:59:00+00:00",
+                    "source": "blogs",
+                    "title": "Study finds a higher sensitivity to sweet and salty tastes among obese individuals",
+                    "url": "http://www.psypost.org/2017/05/study-finds-higher-sensitivity-sweet-salty-tastes-among-obese-individuals-49035"
+                },
+                {
+                    "attribution": "The Diet Doc - Independence",
+                    "posted_on": "2017-01-25T15:23:13+00:00",
+                    "source": "facebook",
+                    "title": "Interesting - obesity and higher sensitivity to sweet/salty taste.",
+                    "url": "https://www.facebook.com/permalink.php?story_fbid=741456039355730&id=348475185320486"
+                },
+                {
+                    "attribution": "Figurwechsel - Christian Kirchhoff",
+                    "posted_on": "2017-01-25T13:07:10+00:00",
+                    "source": "facebook",
+                    "title": "Sind \u00dcbergewichtige sensitiver f\u00fcr s\u00fc\u00dfen/salzigen Geschmack als Schlanke?\n\n",
+                    "url": "https://www.facebook.com/permalink.php?story_fbid=1849038755338012&id=1500048433570381"
+                },
+                {
+                    "attribution": "Dr. Karl Nadolsky",
+                    "posted_on": "2017-01-25T10:55:44+00:00",
+                    "source": "facebook",
+                    "title": "Obesity and higher sensitivity to sweet/salty taste",
+                    "url": "https://www.facebook.com/permalink.php?story_fbid=1521213694573644&id=626356227392733"
+                },
+                {
+                    "attribution": "The Obese Brain",
+                    "followers": 478,
+                    "posted_on": "2018-01-11T19:27:16+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "obesebrain",
+                    "url": "http://twitter.com/obesebrain/statuses/951536003952599040"
+                },
+                {
+                    "attribution": "4\u5e74\u751f\u306b\u3088\u308b\u8ad6\u6587\u7d39\u4ecb",
+                    "followers": 42,
+                    "posted_on": "2017-02-17T03:00:03+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Ronbun4",
+                    "url": "http://twitter.com/Ronbun4/statuses/832424342499659776"
+                },
+                {
+                    "attribution": "Jeffery Nutrition",
+                    "followers": 123,
+                    "posted_on": "2017-01-25T23:42:03+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "JefferyNutr",
+                    "url": "http://twitter.com/JefferyNutr/statuses/824401982375002116"
+                },
+                {
+                    "attribution": "Karl Nadolsky",
+                    "followers": 713,
+                    "posted_on": "2017-01-25T10:55:47+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "DrKarlNadolsky",
+                    "url": "http://twitter.com/DrKarlNadolsky/statuses/824209143393349632"
+                },
+                {
+                    "attribution": "Becks Atkinson",
+                    "followers": 125,
+                    "posted_on": "2017-01-20T16:42:34+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "BecksAilish",
+                    "url": "http://twitter.com/BecksAilish/statuses/822484475150028801"
+                },
+                {
+                    "attribution": "Michael Gaebler",
+                    "followers": 705,
+                    "posted_on": "2017-01-18T07:44:43+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "jerryblossom",
+                    "url": "http://twitter.com/jerryblossom/statuses/821624343553830912"
+                },
+                {
+                    "attribution": "Samyogita Hardikar",
+                    "followers": 702,
+                    "posted_on": "2017-01-17T14:48:42+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Hardigirl",
+                    "url": "http://twitter.com/Hardigirl/statuses/821368655648788482"
+                },
+                {
+                    "attribution": "|o_o|",
+                    "followers": 55,
+                    "posted_on": "2017-01-16T20:29:49+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ol__lo",
+                    "url": "http://twitter.com/ol__lo/statuses/821092113081364480"
+                },
+                {
+                    "attribution": "Samyogita Hardikar",
+                    "followers": 702,
+                    "posted_on": "2017-01-16T18:00:56+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "Hardigirl",
+                    "url": "http://twitter.com/Hardigirl/statuses/821054645305012225"
+                },
+                {
+                    "attribution": "Richard H\u00f6chenberger",
+                    "followers": 97,
+                    "posted_on": "2017-01-16T13:17:03+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "RHoechenberger",
+                    "url": "http://twitter.com/RHoechenberger/statuses/820983202932260866"
+                },
+                {
+                    "attribution": "Maria Veldhuizen",
+                    "followers": 182,
+                    "posted_on": "2016-12-24T19:48:44+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "margaveldhuizen",
+                    "url": "http://twitter.com/margaveldhuizen/statuses/812746852395261952"
+                },
+                {
+                    "attribution": "Alex Woo",
+                    "followers": 344,
+                    "posted_on": "2016-12-24T16:31:31+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "AlexWoo_W2O",
+                    "url": "http://twitter.com/AlexWoo_W2O/statuses/812697221166731264"
+                },
+                {
+                    "attribution": "SensoStat",
+                    "followers": 77,
+                    "posted_on": "2016-12-21T23:36:30+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "SensoStat",
+                    "url": "http://twitter.com/SensoStat/statuses/811717008781819905"
+                },
+                {
+                    "attribution": "Kiu Sum",
+                    "followers": 882,
+                    "posted_on": "2016-12-20T11:46:46+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "KiuSum",
+                    "url": "http://twitter.com/KiuSum/statuses/811176012625088512"
+                },
+                {
+                    "attribution": "Shane McGlynn",
+                    "followers": 829,
+                    "posted_on": "2016-12-19T19:55:51+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "shanetmc",
+                    "url": "http://twitter.com/shanetmc/statuses/810936705960251392"
+                },
+                {
+                    "attribution": "Lauren Rogers",
+                    "followers": 2815,
+                    "posted_on": "2016-12-19T19:53:11+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "LaurenLRogers",
+                    "url": "http://twitter.com/LaurenLRogers/statuses/810936034489929728"
+                },
+                {
+                    "attribution": "Joachim Schouteten",
+                    "followers": 205,
+                    "posted_on": "2016-12-19T18:46:51+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "jj_schouteten",
+                    "url": "http://twitter.com/jj_schouteten/statuses/810919340270829569"
+                },
+                {
+                    "attribution": "ESN",
+                    "followers": 739,
+                    "posted_on": "2016-12-19T18:40:11+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "esn_network",
+                    "url": "http://twitter.com/esn_network/statuses/810917661098000384"
+                },
+                {
+                    "attribution": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc\uff12\u4e16",
+                    "followers": 3589,
+                    "posted_on": "2016-12-16T13:21:42+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "uranus_2",
+                    "url": "http://twitter.com/uranus_2/statuses/809750349896552449"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Facebook pages",
+                    "events_last_week_count": 0,
+                    "posts_count": 3,
+                    "source_name": "facebook"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 19,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "Blog posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "blogs"
+                }
+            ],
+            "title": "Higher sensitivity to sweet and salty taste in obese compared to lean individuals.",
+            "url": "http://doi.org/10.1016/j.appet.2016.12.017",
+            "year": "2016"
+        },
+        {
+            "_title": "Perceived Odor-Taste Congruence Influences Intensity and Pleasantness Differently.",
+            "altmetric_id": 10002078,
+            "altmetric_score": 17.6,
+            "authors": "Amsellem S, Ohla K",
+            "doi": "10.1093/chemse/bjw078",
+            "events_last_week_count": 0,
+            "fulltext_url": "https://academic.oup.com/chemse/article-pdf/41/8/677/17427945/bjw078.pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "j2uJmag3TA",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Brazil": 0.5,
+                    "France": 0.5
+                },
+                "job_title_percent": {
+                    "Faculty": 0.08,
+                    "Masters Student": 0.08,
+                    "PhD Student": 0.08,
+                    "Researcher": 0.33,
+                    "Undergrad Student": 0.33,
+                    "Unspecified": 0.08
+                },
+                "mendeley_url": "http://www.mendeley.com/research/perceived-odortaste-congruence-influences-intensity-pleasantness-differently",
+                "readers": 12,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.5,
+                    "Business, Management and Accounting": 0.08,
+                    "Chemistry": 0.17,
+                    "Psychology": 0.17,
+                    "Unspecified": 0.08
+                }
+            },
+            "num_mentions": 17,
+            "num_posts": 17,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Chemie.de",
+                    "posted_on": "2016-09-27T01:59:55+00:00",
+                    "source": "news",
+                    "title": "Perceived Odor\u2013Taste Congruence Influences Intensity and Pleasantness Differently -",
+                    "url": "http://ct.moreover.com/?a=28090160088&p=1pl&v=1&x=Wy7lvJJGb-afwlxX27w0Cg"
+                },
+                {
+                    "attribution": "Maria Veldhuizen",
+                    "followers": 176,
+                    "posted_on": "2016-12-12T18:00:55+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "margaveldhuizen",
+                    "url": "http://twitter.com/margaveldhuizen/statuses/808371064082460673"
+                },
+                {
+                    "attribution": "Maria Veldhuizen",
+                    "followers": 176,
+                    "posted_on": "2016-11-15T17:52:19+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "margaveldhuizen",
+                    "url": "http://twitter.com/margaveldhuizen/statuses/798584427299373056"
+                },
+                {
+                    "attribution": "Alejandro Salgado M",
+                    "followers": 1643,
+                    "posted_on": "2016-09-30T09:52:11+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "tiempoasm",
+                    "url": "http://twitter.com/tiempoasm/statuses/781793759667290112"
+                },
+                {
+                    "attribution": "Sherlley",
+                    "followers": 9,
+                    "posted_on": "2016-09-30T08:30:57+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "sherlait",
+                    "url": "http://twitter.com/sherlait/statuses/781773314482200576"
+                },
+                {
+                    "attribution": "Sensory Society",
+                    "followers": 274,
+                    "posted_on": "2016-09-28T15:00:11+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "SensoryPros",
+                    "url": "http://twitter.com/SensoryPros/statuses/781146493990297600"
+                },
+                {
+                    "attribution": "Sensory Dimensions",
+                    "followers": 465,
+                    "posted_on": "2016-09-27T11:09:53+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "sensdimensions",
+                    "url": "http://twitter.com/sensdimensions/statuses/780726149680885760"
+                },
+                {
+                    "attribution": "Craig Duckham",
+                    "followers": 799,
+                    "posted_on": "2016-09-26T15:52:13+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "CDRnD",
+                    "url": "http://twitter.com/CDRnD/statuses/780434810028326912"
+                },
+                {
+                    "attribution": "ESN",
+                    "followers": 727,
+                    "posted_on": "2016-09-26T15:51:38+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "esn_network",
+                    "url": "http://twitter.com/esn_network/statuses/780434663366094848"
+                },
+                {
+                    "attribution": "Ben Young",
+                    "followers": 4061,
+                    "posted_on": "2016-09-26T04:02:33+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "BenjaminDYoung",
+                    "url": "http://twitter.com/BenjaminDYoung/statuses/780256218585571328"
+                },
+                {
+                    "attribution": "Carlos Velasco",
+                    "followers": 2177,
+                    "posted_on": "2016-09-26T03:13:59+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "velascop",
+                    "url": "http://twitter.com/velascop/statuses/780243997801472000"
+                },
+                {
+                    "attribution": "perfume&skincare",
+                    "followers": 66,
+                    "posted_on": "2016-07-26T00:05:01+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "perskinau",
+                    "url": "http://twitter.com/perskinau/statuses/757728392179355649"
+                },
+                {
+                    "attribution": "Jane Daly",
+                    "followers": 11457,
+                    "posted_on": "2016-07-26T00:04:47+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "dalybeauty",
+                    "url": "http://twitter.com/dalybeauty/statuses/757728335300587521"
+                },
+                {
+                    "attribution": "SomethingSmelly",
+                    "posted_on": "2016-07-26T00:03:07+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "SomethingSmelly",
+                    "url": "http://twitter.com/SomethingSmelly/statuses/757727913038970880"
+                },
+                {
+                    "attribution": "Alejandro Salgado M",
+                    "followers": 1643,
+                    "posted_on": "2016-07-25T10:11:01+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "tiempoasm",
+                    "url": "http://twitter.com/tiempoasm/statuses/757518511765872640"
+                },
+                {
+                    "attribution": "Anna Mas-Casades\u00fas",
+                    "followers": 667,
+                    "posted_on": "2016-07-25T10:10:18+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "annamassus",
+                    "url": "http://twitter.com/annamassus/statuses/757518328416133120"
+                },
+                {
+                    "attribution": "Ben Young",
+                    "followers": 4061,
+                    "posted_on": "2016-07-24T09:46:00+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "BenjaminDYoung",
+                    "url": "http://twitter.com/BenjaminDYoung/statuses/757149825045594112"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 16,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "news"
+                }
+            ],
+            "title": "Perceived Odor-Taste Congruence Influences Intensity and Pleasantness Differently.",
+            "url": "http://doi.org/10.1093/chemse/bjw078",
+            "year": "2016"
+        },
+        {
+            "_title": "Feeling smart: Effects of caffeine and glucose on cognition, mood and self-judgment",
+            "altmetric_id": 4449919,
+            "altmetric_score": 16.55,
+            "authors": "Susann Ullrich, Yfke C. de Vries, Simone K\u00fchn, Dimitris Repantis, Martin Dresler, Kathrin Ohla",
+            "doi": "10.1016/j.physbeh.2015.08.028",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "bRF8Rhw9Ek",
+            "journal": "Physiology & Behavior",
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Germany": 0.33,
+                    "Greece": 0.33,
+                    "Turkey": 0.33
+                },
+                "job_title_percent": {
+                    "Faculty": 0.08,
+                    "Masters Student": 0.2,
+                    "Other": 0.04,
+                    "PhD Student": 0.14,
+                    "Researcher": 0.11,
+                    "Undergrad Student": 0.4,
+                    "Unspecified": 0.03
+                },
+                "mendeley_url": "http://www.mendeley.com/research/feeling-smart-effects-caffeine-glucose-cognition-mood-selfjudgment",
+                "readers": 93,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.15,
+                    "Biochemistry, Genetics and Molecular Biology": 0.08,
+                    "Business, Management and Accounting": 0.02,
+                    "Chemistry": 0.01,
+                    "Computer Science": 0.01,
+                    "Economics, Econometrics and Finance": 0.02,
+                    "Engineering": 0.01,
+                    "Immunology and Microbiology": 0.01,
+                    "Materials Science": 0.01,
+                    "Medicine and Dentistry": 0.22,
+                    "Neuroscience": 0.01,
+                    "Nursing and Health Professions": 0.04,
+                    "Pharmacology, Toxicology and Pharmaceutical Science": 0.04,
+                    "Psychology": 0.24,
+                    "Social Sciences": 0.01,
+                    "Sports and Recreations": 0.02,
+                    "Unspecified": 0.1
+                }
+            },
+            "num_mentions": 12,
+            "num_posts": 12,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Kathrin Ohla",
+                    "posted_on": "2015-09-15T07:33:22+00:00",
+                    "source": "googleplus",
+                    "title": "Feeling smart: Effects of caffeine and glucose on cognition, mood and self-judgment. http://authors... Feeling smart: \u2026",
+                    "url": "https://plus.google.com/115561403168904309198/posts/JZKQQcKubvQ"
+                },
+                {
+                    "attribution": "Sign of the Times",
+                    "posted_on": "2016-07-31T21:26:29+00:00",
+                    "source": "news",
+                    "title": "Coffee: The definitive guide",
+                    "url": "http://ct.moreover.com/?a=27457722545&p=1pl&v=1&x=QfMhUepusPdvWAiRRKPPtQ"
+                },
+                {
+                    "attribution": "Holly Jones",
+                    "followers": 9,
+                    "posted_on": "2015-11-16T02:54:23+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "hollynemitz",
+                    "url": "http://twitter.com/hollynemitz/statuses/666086886780350464"
+                },
+                {
+                    "attribution": "Matt Marcello",
+                    "followers": 158,
+                    "posted_on": "2015-11-13T18:21:39+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "mattmarcello",
+                    "url": "http://twitter.com/mattmarcello/statuses/665233075593453568"
+                },
+                {
+                    "attribution": "leo",
+                    "followers": 94,
+                    "posted_on": "2015-11-13T16:28:33+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "leo_delibes",
+                    "url": "http://twitter.com/leo_delibes/statuses/665204614942298112"
+                },
+                {
+                    "attribution": "Gil Blander, PhD",
+                    "followers": 23483,
+                    "posted_on": "2015-11-13T16:18:24+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "gblander1",
+                    "url": "http://twitter.com/gblander1/statuses/665202059755569152"
+                },
+                {
+                    "attribution": "Emily Trunnell PhD",
+                    "followers": 358,
+                    "posted_on": "2015-11-06T16:07:41+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ERoseEngland",
+                    "url": "http://twitter.com/ERoseEngland/statuses/662662646181810176"
+                },
+                {
+                    "attribution": "Richard H\u00f6chenberger",
+                    "followers": 97,
+                    "posted_on": "2015-09-15T07:56:58+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "RHoechenberger",
+                    "url": "http://twitter.com/RHoechenberger/statuses/643694985141952512"
+                },
+                {
+                    "attribution": "@reiver (Charles)",
+                    "followers": 2827,
+                    "posted_on": "2015-08-30T20:36:46+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "reiver",
+                    "url": "http://twitter.com/reiver/statuses/638087991500500996"
+                },
+                {
+                    "attribution": "SunnyAllison (Ms. Jackson if you're nasty)",
+                    "followers": 97,
+                    "posted_on": "2015-08-29T16:38:35+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "sunnyallison",
+                    "url": "http://twitter.com/sunnyallison/statuses/637665661326458881"
+                },
+                {
+                    "attribution": "Sandip Roy \u30c4",
+                    "followers": 2625,
+                    "posted_on": "2015-08-29T13:05:06+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "sandyzombie",
+                    "url": "http://twitter.com/sandyzombie/statuses/637611937585606656"
+                },
+                {
+                    "attribution": "Rolf Degen",
+                    "followers": 13783,
+                    "posted_on": "2015-08-29T12:53:01+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "DegenRolf",
+                    "url": "http://twitter.com/DegenRolf/statuses/637608895389765632"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Google+ posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "googleplus"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 10,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "News mentions",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "news"
+                }
+            ],
+            "title": "Feeling smart: Effects of caffeine and glucose on cognition, mood and self-judgment",
+            "url": "http://doi.org/10.1016/j.physbeh.2015.08.028",
+            "year": "2015"
+        },
+        {
+            "_title": "Changes in Gustatory Function and Taste Preference Following Weight Loss.",
+            "altmetric_id": 15147308,
+            "altmetric_score": 6.3,
+            "authors": "Sauer H, Ohla K, Dammann D, Teufel M, Zipfel S, Enck P, Mack I",
+            "doi": "10.1016/j.jpeds.2016.11.055",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "RstrG2BAVQ",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {},
+                "job_title_percent": {
+                    "Librarian": 0.1,
+                    "Masters Student": 0.2,
+                    "PhD Student": 0.2,
+                    "Researcher": 0.2,
+                    "Undergrad Student": 0.2,
+                    "Unspecified": 0.1
+                },
+                "mendeley_url": "http://www.mendeley.com/research/changes-gustatory-function-taste-preference-following-weight-loss",
+                "readers": 10,
+                "subdiscipline_percent": {
+                    "Biochemistry, Genetics and Molecular Biology": 0.1,
+                    "Medicine and Dentistry": 0.1,
+                    "Psychology": 0.3,
+                    "Sports and Recreations": 0.2,
+                    "Unspecified": 0.3
+                }
+            },
+            "num_mentions": 13,
+            "num_posts": 13,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "ASU Healthy Lifestyles Research Lab",
+                    "posted_on": "2017-01-17T14:59:59+00:00",
+                    "source": "facebook",
+                    "title": "Changes in Gustatory Function and Taste Preference Following Weight Loss. http://ow.ly/xP71307NUeh",
+                    "url": "https://www.facebook.com/permalink.php?story_fbid=1404160226269403&id=1118881184797310"
+                },
+                {
+                    "attribution": "NASPGHAN",
+                    "followers": 2300,
+                    "posted_on": "2017-03-14T16:18:22+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "NASPGHAN",
+                    "url": "http://twitter.com/NASPGHAN/statuses/841684939993096193"
+                },
+                {
+                    "attribution": "JournalofPediatrics",
+                    "followers": 1325,
+                    "posted_on": "2017-03-07T19:27:02+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "JPediatr",
+                    "url": "http://twitter.com/JPediatr/statuses/839195704891486208"
+                },
+                {
+                    "attribution": "Elsevier Pediatrics",
+                    "followers": 1383,
+                    "posted_on": "2017-03-06T17:15:23+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ELSpediatrics",
+                    "url": "http://twitter.com/ELSpediatrics/statuses/838800185400623104"
+                },
+                {
+                    "attribution": "PaediatricSnippets",
+                    "followers": 145,
+                    "posted_on": "2017-03-02T22:53:58+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "PaediatricNews",
+                    "url": "http://twitter.com/PaediatricNews/statuses/837435841341505537"
+                },
+                {
+                    "attribution": "JournalofPediatrics",
+                    "followers": 1325,
+                    "posted_on": "2017-02-28T21:40:28+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "JPediatr",
+                    "url": "http://twitter.com/JPediatr/statuses/836692568717000704"
+                },
+                {
+                    "attribution": "The Obese Brain",
+                    "followers": 477,
+                    "posted_on": "2017-02-15T20:41:24+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "obesebrain",
+                    "url": "http://twitter.com/obesebrain/statuses/831966664514224128"
+                },
+                {
+                    "attribution": "Anette Norsett",
+                    "followers": 257,
+                    "posted_on": "2017-01-16T11:15:39+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "norsett",
+                    "url": "http://twitter.com/norsett/statuses/820952653207310336"
+                },
+                {
+                    "attribution": "MedEst\u00e9tica DrZurita",
+                    "followers": 60,
+                    "posted_on": "2017-01-15T22:04:31+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "CalidadNutriMed",
+                    "url": "http://twitter.com/CalidadNutriMed/statuses/820753555711819777"
+                },
+                {
+                    "attribution": "Dr. Zurita",
+                    "followers": 1838,
+                    "posted_on": "2017-01-15T15:01:45+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "AZSRock",
+                    "url": "http://twitter.com/AZSRock/statuses/820647164393046016"
+                },
+                {
+                    "attribution": "The Obesity Society",
+                    "followers": 26226,
+                    "posted_on": "2017-01-15T15:01:25+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ObesitySociety",
+                    "url": "http://twitter.com/ObesitySociety/statuses/820647080066695169"
+                },
+                {
+                    "attribution": "Nick Aaron P.",
+                    "followers": 395,
+                    "posted_on": "2016-12-30T20:03:29+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "NickAaron",
+                    "url": "http://twitter.com/NickAaron/statuses/814924892189630464"
+                },
+                {
+                    "attribution": "Dr.John Mitchell",
+                    "followers": 2664,
+                    "posted_on": "2016-12-30T17:37:55+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "johnmitchelldc",
+                    "url": "http://twitter.com/johnmitchelldc/statuses/814888257389412352"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Facebook pages",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "facebook"
+                },
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 12,
+                    "source_name": "twitter"
+                }
+            ],
+            "title": "Changes in Gustatory Function and Taste Preference Following Weight Loss.",
+            "url": "http://doi.org/10.1016/j.jpeds.2016.11.055",
+            "year": "2016"
+        },
+        {
+            "_title": "Superadditive opercular activation to food flavor is mediated by enhanced temporal and limbic coupling.",
+            "altmetric_id": 3028705,
+            "altmetric_score": 4.6,
+            "authors": "Seubert J, Ohla K, Yokomukai Y, Kellermann T, Lundstr\u00f6m JN",
+            "doi": "10.1002/hbm.22728",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "VhLE37Eo8g",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Germany": 1.0
+                },
+                "job_title_percent": {
+                    "Faculty": 0.11,
+                    "Masters Student": 0.16,
+                    "PhD Student": 0.24,
+                    "Researcher": 0.24,
+                    "Undergrad Student": 0.21,
+                    "Unspecified": 0.05
+                },
+                "mendeley_url": "http://www.mendeley.com/research/superadditive-opercular-activation-food-flavor-mediated-enhanced-temporal-limbic-coupling",
+                "readers": 38,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.24,
+                    "Biochemistry, Genetics and Molecular Biology": 0.13,
+                    "Chemistry": 0.03,
+                    "Design": 0.03,
+                    "Medicine and Dentistry": 0.05,
+                    "Neuroscience": 0.11,
+                    "Physics and Astronomy": 0.03,
+                    "Psychology": 0.32,
+                    "Unspecified": 0.08
+                }
+            },
+            "num_mentions": 6,
+            "num_posts": 6,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Simon Gane",
+                    "followers": 281,
+                    "posted_on": "2015-07-21T16:05:46+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "mrsimongane",
+                    "url": "https://twitter.com/mrsimongane/status/623524276554059776"
+                },
+                {
+                    "attribution": "UK Semiochemistry",
+                    "followers": 31,
+                    "posted_on": "2015-07-21T16:05:11+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "UKSemiochemist",
+                    "url": "https://twitter.com/UKSemiochemist/status/623524129006731264"
+                },
+                {
+                    "attribution": "Takumi Ohshima",
+                    "followers": 187,
+                    "posted_on": "2015-01-02T20:40:17+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "TakumiOHSHIMA",
+                    "url": "https://twitter.com/TakumiOHSHIMA/status/551115786404655104"
+                },
+                {
+                    "attribution": "Naoya KOIZUMI / \u5c0f\u6cc9\u76f4\u4e5f",
+                    "followers": 1236,
+                    "posted_on": "2015-01-02T20:20:58+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "kizm_naoya",
+                    "url": "https://twitter.com/kizm_naoya/status/551110924111581184"
+                },
+                {
+                    "attribution": "Bart Ferguson",
+                    "followers": 131,
+                    "posted_on": "2015-01-02T13:24:40+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "bartferguson",
+                    "url": "https://twitter.com/bartferguson/status/551006161164828672"
+                },
+                {
+                    "attribution": "\u30de\u30fc\u30ad\u30e5\u30ea\u30fc\uff12\u4e16",
+                    "followers": 3606,
+                    "posted_on": "2015-01-01T02:53:35+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "uranus_2",
+                    "url": "https://twitter.com/uranus_2/status/550484955092877312"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 6,
+                    "source_name": "twitter"
+                }
+            ],
+            "title": "Superadditive opercular activation to food flavor is mediated by enhanced temporal and limbic coupling.",
+            "url": "http://doi.org/10.1002/hbm.22728",
+            "year": "2015"
+        },
+        {
+            "_title": "Nonlinear response speedup in bimodal visual-olfactory object identification.",
+            "altmetric_id": 4558767,
+            "altmetric_score": 3.35,
+            "authors": "H\u00f6chenberger R, Busch NA, Ohla K",
+            "doi": "10.3389/fpsyg.2015.01477",
+            "events_last_week_count": 0,
+            "fulltext_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01477/pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "Qaumnnjhs6",
+            "journal": null,
+            "license": "cc-by",
+            "mendeley": {
+                "country_percent": {
+                    "France": 1.0
+                },
+                "job_title_percent": {
+                    "Masters Student": 0.17,
+                    "Researcher": 0.33,
+                    "Undergrad Student": 0.33,
+                    "Unspecified": 0.17
+                },
+                "mendeley_url": "http://www.mendeley.com/research/nonlinear-response-speedup-bimodal-visualolfactory-object-identification",
+                "readers": 6,
+                "subdiscipline_percent": {
+                    "Engineering": 0.17,
+                    "Neuroscience": 0.5,
+                    "Psychology": 0.17,
+                    "Unspecified": 0.17
+                }
+            },
+            "num_mentions": 5,
+            "num_posts": 5,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Ben Young",
+                    "followers": 4048,
+                    "posted_on": "2015-10-23T08:56:05+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "BenjaminDYoung",
+                    "url": "http://twitter.com/BenjaminDYoung/statuses/657480600576774144"
+                },
+                {
+                    "attribution": "Frontiers Psychology",
+                    "followers": 10307,
+                    "posted_on": "2015-09-30T10:14:05+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "FrontPsychol",
+                    "url": "http://twitter.com/FrontPsychol/statuses/649165309690032128"
+                },
+                {
+                    "attribution": "Richard H\u00f6chenberger",
+                    "followers": 65,
+                    "posted_on": "2015-09-30T08:34:05+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "RHoechenberger",
+                    "url": "http://twitter.com/RHoechenberger/statuses/649140144889561088"
+                },
+                {
+                    "attribution": "Marit Nijman",
+                    "followers": 648,
+                    "posted_on": "2015-09-27T15:51:55+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "NosyBusiness",
+                    "url": "http://twitter.com/NosyBusiness/statuses/648163165038084097"
+                },
+                {
+                    "attribution": "SomethingSmelly",
+                    "posted_on": "2015-09-27T13:59:00+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "SomethingSmelly",
+                    "url": "http://twitter.com/SomethingSmelly/statuses/648134747756077056"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 5,
+                    "source_name": "twitter"
+                }
+            ],
+            "title": "Nonlinear response speedup in bimodal visual-olfactory object identification.",
+            "url": "http://doi.org/10.3389/fpsyg.2015.01477",
+            "year": "2015"
+        },
+        {
+            "_title": "Sex differences in chemosensation: sensory or emotional?",
+            "altmetric_id": 1787428,
+            "altmetric_score": 1.25,
+            "authors": "Ohla K, Lundstr\u00f6m JN",
+            "doi": "10.3389/fnhum.2013.00607",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://journal.frontiersin.org/article/10.3389/fnhum.2013.00607/pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "fgw3MsjdCs",
+            "journal": null,
+            "license": "cc-by",
+            "mendeley": {
+                "country_percent": {
+                    "Italy": 0.5,
+                    "Sweden": 0.5
+                },
+                "job_title_percent": {
+                    "Faculty": 0.19,
+                    "Masters Student": 0.11,
+                    "Other": 0.05,
+                    "PhD Student": 0.35,
+                    "Researcher": 0.16,
+                    "Undergrad Student": 0.11,
+                    "Unspecified": 0.03
+                },
+                "mendeley_url": "http://www.mendeley.com/research/sex-differences-chemosensation-sensory-emotional",
+                "readers": 37,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.24,
+                    "Engineering": 0.05,
+                    "Environmental Science": 0.05,
+                    "Linguistics": 0.03,
+                    "Materials Science": 0.03,
+                    "Medicine and Dentistry": 0.08,
+                    "Pharmacology, Toxicology and Pharmaceutical Science": 0.03,
+                    "Psychology": 0.38,
+                    "Unspecified": 0.11
+                }
+            },
+            "num_mentions": 3,
+            "num_posts": 3,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "incredulitor",
+                    "posted_on": "2013-09-26T17:01:41+00:00",
+                    "source": "reddit",
+                    "title": "Sex differences in chemosensation: sensory or emotional?",
+                    "url": "http://www.reddit.com/r/psychology/comments/1n6r56/sex_differences_in_chemosensation_sensory_or/"
+                },
+                {
+                    "attribution": "Marc Abrahams",
+                    "followers": 9347,
+                    "posted_on": "2013-10-10T15:32:22+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "MarcAbrahams",
+                    "url": "http://twitter.com/MarcAbrahams/status/388326146762633216"
+                },
+                {
+                    "attribution": "Prof Neil Martin",
+                    "followers": 1748,
+                    "posted_on": "2013-10-10T14:59:07+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "ThatNeilMartin",
+                    "url": "http://twitter.com/ThatNeilMartin/status/388317776328155136"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 2,
+                    "source_name": "twitter"
+                },
+                {
+                    "display_name": "Reddit posts",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "reddit"
+                }
+            ],
+            "title": "Sex differences in chemosensation: sensory or emotional?",
+            "url": "http://doi.org/10.3389/fnhum.2013.00607",
+            "year": "2013"
+        },
+        {
+            "_title": "A dynamic cortical network encodes violations of expectancy during taste perception.",
+            "altmetric_id": 595454,
+            "altmetric_score": 1,
+            "authors": "Seubert J, Ohla K",
+            "doi": "10.1523/JNEUROSCI.6159-11.2012",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://www.jneurosci.org/content/jneuro/32/6/1918.full.pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "tQGK7j4Res",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {},
+                "job_title_percent": {
+                    "PhD Student": 0.5,
+                    "Researcher": 0.5
+                },
+                "mendeley_url": "http://www.mendeley.com/research/review-dynamic-cortical-network-encodes-voilations-expectancy-during-taste-perception",
+                "readers": 2,
+                "subdiscipline_percent": {
+                    "Neuroscience": 0.5,
+                    "Psychology": 0.5
+                }
+            },
+            "num_mentions": 2,
+            "num_posts": 2,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Lorenzo Pia",
+                    "followers": 1054,
+                    "posted_on": "2012-02-08T21:41:49+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "lorenzopia",
+                    "url": "http://twitter.com/#!/lorenzopia/status/167362521706143744"
+                },
+                {
+                    "attribution": "Neuro Now",
+                    "followers": 44030,
+                    "posted_on": "2012-02-08T19:34:56+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "NeuroNow",
+                    "url": "http://twitter.com/#!/NeuroNow/status/167330593036705793"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 2,
+                    "source_name": "twitter"
+                }
+            ],
+            "title": "A dynamic cortical network encodes violations of expectancy during taste perception.",
+            "url": "http://doi.org/10.1523/JNEUROSCI.6159-11.2012",
+            "year": "2012"
+        },
+        {
+            "_title": "Electrical neuroimaging reveals intensity-dependent activation of human cortical gustatory and somatosensory areas by electric taste.",
+            "altmetric_id": 1192993,
+            "altmetric_score": 1,
+            "authors": "Ohla K, Toepel U, le Coutre J, Hudry J",
+            "doi": "10.1016/j.biopsycho.2010.09.007",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "CJLmSyw7MX",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Colombia": 0.17,
+                    "Israel": 0.17,
+                    "Italy": 0.17,
+                    "Netherlands": 0.17,
+                    "United Kingdom": 0.17,
+                    "United States": 0.17
+                },
+                "job_title_percent": {
+                    "Faculty": 0.18,
+                    "Masters Student": 0.03,
+                    "Other": 0.09,
+                    "PhD Student": 0.27,
+                    "Researcher": 0.3,
+                    "Undergrad Student": 0.09,
+                    "Unspecified": 0.03
+                },
+                "mendeley_url": "http://www.mendeley.com/research/electrical-neuroimaging-reveals-intensitydependent-activation-human-cortical-gustatory-somatosensory",
+                "readers": 33,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.15,
+                    "Engineering": 0.24,
+                    "Medicine and Dentistry": 0.06,
+                    "Neuroscience": 0.06,
+                    "Philosophy": 0.03,
+                    "Psychology": 0.24,
+                    "Social Sciences": 0.03,
+                    "Sports and Recreations": 0.09,
+                    "Unspecified": 0.09
+                }
+            },
+            "num_mentions": 2,
+            "num_posts": 2,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Adrian David Cheok",
+                    "followers": 38746,
+                    "posted_on": "2016-01-23T16:16:15+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "adriancheok",
+                    "url": "http://twitter.com/adriancheok/statuses/690931058007805952"
+                },
+                {
+                    "attribution": "Adrian David Cheok",
+                    "followers": 38746,
+                    "posted_on": "2013-01-23T15:00:52+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "adriancheok",
+                    "url": "http://twitter.com/adriancheok/statuses/294097373209165824"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 2,
+                    "source_name": "twitter"
+                }
+            ],
+            "title": "Electrical neuroimaging reveals intensity-dependent activation of human cortical gustatory and somatosensory areas by electric taste.",
+            "url": "http://doi.org/10.1016/j.biopsycho.2010.09.007",
+            "year": "2010"
+        },
+        {
+            "_title": "Verbal labels selectively bias brain responses to high-energy foods.",
+            "altmetric_id": 1880506,
+            "altmetric_score": 0.5,
+            "authors": "Toepel U, Ohla K, Hudry J, le Coutre J, Murray MM",
+            "doi": "10.1016/j.neuroimage.2013.10.038",
+            "events_last_week_count": 0,
+            "fulltext_url": "https://serval.unil.ch/resource/serval:BIB_DE20153FA3A1.P001/REF",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "mJCZmS6cB9",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Israel": 0.2,
+                    "Italy": 0.2,
+                    "Japan": 0.2,
+                    "Netherlands": 0.2,
+                    "Switzerland": 0.2
+                },
+                "job_title_percent": {
+                    "Faculty": 0.22,
+                    "Masters Student": 0.17,
+                    "PhD Student": 0.26,
+                    "Researcher": 0.2,
+                    "Undergrad Student": 0.13,
+                    "Unspecified": 0.02
+                },
+                "mendeley_url": "http://www.mendeley.com/research/verbal-labels-selectively-bias-brain-responses-highenergy-foods",
+                "readers": 46,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.17,
+                    "Business, Management and Accounting": 0.02,
+                    "Computer Science": 0.02,
+                    "Design": 0.02,
+                    "Engineering": 0.15,
+                    "Medicine and Dentistry": 0.04,
+                    "Neuroscience": 0.07,
+                    "Nursing and Health Professions": 0.04,
+                    "Psychology": 0.33,
+                    "Social Sciences": 0.02,
+                    "Unspecified": 0.11
+                }
+            },
+            "num_mentions": 1,
+            "num_posts": 1,
+            "orcid_id": null,
+            "posts": [
+                {
+                    "attribution": "Lorenzo Pia",
+                    "followers": 1053,
+                    "posted_on": "2013-11-04T08:31:37+00:00",
+                    "source": "twitter",
+                    "title": "",
+                    "twitter_handle": "lorenzopia",
+                    "url": "http://twitter.com/lorenzopia/status/397279957480521729"
+                }
+            ],
+            "sources": [
+                {
+                    "display_name": "Tweets",
+                    "events_last_week_count": 0,
+                    "posts_count": 1,
+                    "source_name": "twitter"
+                }
+            ],
+            "title": "Verbal labels selectively bias brain responses to high-energy foods.",
+            "url": "http://doi.org/10.1016/j.neuroimage.2013.10.038",
+            "year": "2014"
+        },
+        {
+            "_title": "Time for Taste-A Review of the Early Cerebral Processing of Gustatory Perception.",
+            "altmetric_id": null,
+            "altmetric_score": 0,
+            "authors": "Ohla K, Busch NA, Lundstr\u00f6m JN",
+            "doi": "10.1007/s12078-011-9106-4",
+            "events_last_week_count": 0,
+            "fulltext_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630074/pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "cm5o2Z7Xwe",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Colombia": 0.2,
+                    "France": 0.4,
+                    "Germany": 0.2,
+                    "Portugal": 0.2
+                },
+                "job_title_percent": {
+                    "Faculty": 0.08,
+                    "Librarian": 0.02,
+                    "Masters Student": 0.18,
+                    "Other": 0.02,
+                    "PhD Student": 0.33,
+                    "Researcher": 0.27,
+                    "Undergrad Student": 0.08,
+                    "Unspecified": 0.02
+                },
+                "mendeley_url": "http://www.mendeley.com/research/time-taste-review-early-cerebral-processing-gustatory-perception",
+                "readers": 49,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.18,
+                    "Arts and Humanities": 0.02,
+                    "Business, Management and Accounting": 0.04,
+                    "Chemistry": 0.04,
+                    "Computer Science": 0.02,
+                    "Engineering": 0.08,
+                    "Materials Science": 0.02,
+                    "Medicine and Dentistry": 0.04,
+                    "Neuroscience": 0.08,
+                    "Nursing and Health Professions": 0.02,
+                    "Physics and Astronomy": 0.02,
+                    "Psychology": 0.33,
+                    "Social Sciences": 0.02,
+                    "Unspecified": 0.08
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": null,
+            "posts": [],
+            "sources": [],
+            "title": "Time for Taste-A Review of the Early Cerebral Processing of Gustatory Perception.",
+            "url": "http://doi.org/10.1007/s12078-011-9106-4",
+            "year": "2012"
+        },
+        {
+            "_title": "The cortical chronometry of electrogustatory event-related potentials.",
+            "altmetric_id": null,
+            "altmetric_score": 0,
+            "authors": "Ohla K, Hudry J, le Coutre J",
+            "doi": "10.1007/s10548-009-0076-7",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "FXAh4D8ZFX",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Colombia": 0.33,
+                    "Netherlands": 0.33,
+                    "Switzerland": 0.33
+                },
+                "job_title_percent": {
+                    "Faculty": 0.3,
+                    "Masters Student": 0.13,
+                    "Other": 0.04,
+                    "PhD Student": 0.17,
+                    "Researcher": 0.26,
+                    "Undergrad Student": 0.04,
+                    "Unspecified": 0.04
+                },
+                "mendeley_url": "http://www.mendeley.com/research/cortical-chronometry-electrogustatory-eventrelated-potentials",
+                "readers": 23,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.13,
+                    "Chemistry": 0.04,
+                    "Engineering": 0.13,
+                    "Medicine and Dentistry": 0.13,
+                    "Neuroscience": 0.09,
+                    "Nursing and Health Professions": 0.04,
+                    "Psychology": 0.3,
+                    "Unspecified": 0.13
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": null,
+            "posts": [],
+            "sources": [],
+            "title": "The cortical chronometry of electrogustatory event-related potentials.",
+            "url": "http://doi.org/10.1007/s10548-009-0076-7",
+            "year": "2009"
+        },
+        {
+            "_title": "Induced gamma-band activity elicited by visual representation of unattended objects.",
+            "altmetric_id": null,
+            "altmetric_score": 0,
+            "authors": "Martinovic J, Gruber T, Ohla K, M\u00fcller MM",
+            "doi": "10.1162/jocn.2009.21004",
+            "events_last_week_count": 0,
+            "fulltext_url": "http://aura.abdn.ac.uk/bitstream/2164/2082/1/Martinovic_et_al09_author_final.pdf",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "K2x6ChNLwk",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Canada": 0.08,
+                    "Germany": 0.15,
+                    "Israel": 0.08,
+                    "Italy": 0.15,
+                    "Netherlands": 0.08,
+                    "Turkey": 0.08,
+                    "United Kingdom": 0.15,
+                    "United States": 0.23
+                },
+                "job_title_percent": {
+                    "Faculty": 0.22,
+                    "Masters Student": 0.06,
+                    "Other": 0.04,
+                    "PhD Student": 0.31,
+                    "Researcher": 0.3,
+                    "Undergrad Student": 0.04,
+                    "Unspecified": 0.04
+                },
+                "mendeley_url": "http://www.mendeley.com/research/induced-gammaband-activity-elicited-visual-representation-unattended-objects",
+                "readers": 54,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.13,
+                    "Arts and Humanities": 0.02,
+                    "Computer Science": 0.06,
+                    "Environmental Science": 0.02,
+                    "Linguistics": 0.02,
+                    "Medicine and Dentistry": 0.09,
+                    "Neuroscience": 0.06,
+                    "Psychology": 0.54,
+                    "Unspecified": 0.07
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": null,
+            "posts": [],
+            "sources": [],
+            "title": "Induced gamma-band activity elicited by visual representation of unattended objects.",
+            "url": "http://doi.org/10.1162/jocn.2009.21004",
+            "year": "2009"
+        },
+        {
+            "_title": "Early electrophysiological markers of visual awareness in the human brain.",
+            "altmetric_id": null,
+            "altmetric_score": 0,
+            "authors": "Ohla K, Busch NA, Herrmann CS",
+            "doi": "10.1016/j.neuroimage.2007.06.010",
+            "events_last_week_count": 0,
+            "fulltext_url": null,
+            "genre": "article",
+            "has_fulltext_url": false,
+            "id": "EamGiaZwLv",
+            "journal": null,
+            "license": null,
+            "mendeley": {
+                "country_percent": {
+                    "Belgium": 0.1,
+                    "Canada": 0.05,
+                    "Finland": 0.05,
+                    "France": 0.1,
+                    "Germany": 0.1,
+                    "Israel": 0.05,
+                    "Italy": 0.1,
+                    "Japan": 0.1,
+                    "Netherlands": 0.05,
+                    "Sweden": 0.05,
+                    "Switzerland": 0.1,
+                    "United Kingdom": 0.1,
+                    "United States": 0.1
+                },
+                "job_title_percent": {
+                    "Faculty": 0.26,
+                    "Masters Student": 0.04,
+                    "PhD Student": 0.25,
+                    "Researcher": 0.38,
+                    "Undergrad Student": 0.04,
+                    "Unspecified": 0.03
+                },
+                "mendeley_url": "http://www.mendeley.com/research/early-electrophysiological-markers-visual-awareness-human-brain",
+                "readers": 70,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.14,
+                    "Arts and Humanities": 0.01,
+                    "Engineering": 0.06,
+                    "Medicine and Dentistry": 0.03,
+                    "Neuroscience": 0.13,
+                    "Physics and Astronomy": 0.01,
+                    "Psychology": 0.46,
+                    "Social Sciences": 0.04,
+                    "Unspecified": 0.1
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": null,
+            "posts": [],
+            "sources": [],
+            "title": "Early electrophysiological markers of visual awareness in the human brain.",
+            "url": "http://doi.org/10.1016/j.neuroimage.2007.06.010",
+            "year": "2007"
+        },
+        {
+            "_title": "Circles are different: the perception of Glass patterns modulates early event-related potentials.",
+            "altmetric_id": null,
+            "altmetric_score": 0,
+            "authors": "Ohla K, Busch NA, Dahlem MA, Herrmann CS",
+            "doi": "10.1016/j.visres.2005.03.015",
+            "events_last_week_count": 0,
+            "fulltext_url": "https://doi.org/10.1016/j.visres.2005.03.015",
+            "genre": "article",
+            "has_fulltext_url": true,
+            "id": "FJSRDhNc59",
+            "journal": null,
+            "license": "elsevier-specific: oa user license",
+            "mendeley": {
+                "country_percent": {
+                    "Belgium": 0.09,
+                    "Canada": 0.09,
+                    "Egypt": 0.09,
+                    "France": 0.18,
+                    "Germany": 0.09,
+                    "Poland": 0.09,
+                    "Spain": 0.09,
+                    "Switzerland": 0.09,
+                    "United Kingdom": 0.09,
+                    "United States": 0.09
+                },
+                "job_title_percent": {
+                    "Faculty": 0.19,
+                    "Masters Student": 0.17,
+                    "PhD Student": 0.17,
+                    "Researcher": 0.43,
+                    "Undergrad Student": 0.05
+                },
+                "mendeley_url": "http://www.mendeley.com/research/circles-different-perception-glass-patterns-modulates-early-eventrelated-potentials",
+                "readers": 42,
+                "subdiscipline_percent": {
+                    "Agricultural and Biological Sciences": 0.05,
+                    "Computer Science": 0.05,
+                    "Medicine and Dentistry": 0.12,
+                    "Neuroscience": 0.24,
+                    "Physics and Astronomy": 0.05,
+                    "Psychology": 0.45,
+                    "Social Sciences": 0.02,
+                    "Unspecified": 0.02
+                }
+            },
+            "num_mentions": 0,
+            "num_posts": 0,
+            "orcid_id": null,
+            "posts": [],
+            "sources": [],
+            "title": "Circles are different: the perception of Glass patterns modulates early event-related potentials.",
+            "url": "http://doi.org/10.1016/j.visres.2005.03.015",
+            "year": "2005"
+        }
+    ],
+    "promos": null,
+    "sources": [
+        {
+            "display_name": "Google+ posts",
+            "events_last_week_count": 0,
+            "posts_count": 7,
+            "source_name": "googleplus"
+        },
+        {
+            "display_name": "Facebook pages",
+            "events_last_week_count": 0,
+            "posts_count": 5,
+            "source_name": "facebook"
+        },
+        {
+            "display_name": "Tweets",
+            "events_last_week_count": 0,
+            "posts_count": 173,
+            "source_name": "twitter"
+        },
+        {
+            "display_name": "Public peer reviews",
+            "events_last_week_count": 0,
+            "posts_count": 3,
+            "source_name": "peer_reviews"
+        },
+        {
+            "display_name": "Blog posts",
+            "events_last_week_count": 0,
+            "posts_count": 10,
+            "source_name": "blogs"
+        },
+        {
+            "display_name": "News mentions",
+            "events_last_week_count": 0,
+            "posts_count": 26,
+            "source_name": "news"
+        },
+        {
+            "display_name": "Reddit posts",
+            "events_last_week_count": 0,
+            "posts_count": 4,
+            "source_name": "reddit"
+        }
+    ],
+    "subscores": [
+        {
+            "display_name": "buzz",
+            "name": "buzz"
+        },
+        {
+            "display_name": "engagement",
+            "name": "engagement"
+        },
+        {
+            "display_name": "openness",
+            "name": "openness"
+        },
+        {
+            "display_name": "fun",
+            "name": "fun"
+        }
+    ],
+    "twitter": null,
+    "updated": "2018-02-15T20:24:05.194867+00:00"
+}
