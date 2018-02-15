@@ -10,18 +10,18 @@ Author copies of our previous publications are available upon request.
 Coming soon...
 
 # 2017
-Ohla, K., Höchenberger, R., Freiherr, J., & Lundström, J. N. (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical senses, 43(1), 35-44. https://doi.org/10.1093/chemse/bjx068
+Ohla, K., Höchenberger, R., Freiherr, J., & Lundström, J. N. (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical Senses, 43(1): 35-44. https://doi.org/10.1093/chemse/bjx068
 
-Höchenberger, R., & Ohla, K. (2017). Rapid Estimation of Gustatory Sensitivity Thresholds with SIAM and QUEST. Frontiers in psychology, 8, 981. https://www.ncbi.nlm.nih.gov/pubmed/28670293
+Höchenberger, R., & Ohla, K. (2017). Rapid Estimation of Gustatory Sensitivity Thresholds with SIAM and QUEST. Frontiers in Psychology 8:981. https://www.ncbi.nlm.nih.gov/pubmed/28670293
+
+Sauer H, Ohla K, Dammann D, Teufel M, Zipfel S, Enck P, Mack I (2017). Changes in Gustatory Function and Taste Preference Following Weight Loss. J Pediatr 182: 120-126. doi: 10.1016/j.jpeds.2016.11.055. Epub 2016 Dec 15.
+
+Hardikar S, Höchenberger R, Villringer A, Ohla K (2017). Higher sensitivity to sweet and salty taste in obese compared to lean individuals. Appetite 111: 158-165. doi: 10.1016/j.appet.2016.12.017. Epub 2016 Dec 14
 
 # 2016
-Kunath N, Müller NC, Tonon M, Konrad BN, Pawlowski M, Kopczak A, Elbau I, Uhr M, Kühn S, Repantis D et al. (2016). Ghrelin modulates encoding-related brain function without enhancing memory formation in humans. 10.1016/j.neuroimage.2016.07.016
+Kunath N, Müller NC, Tonon M, Konrad BN, Pawlowski M, Kopczak A, Elbau I, Uhr M, Kühn S, Repantis D et al. (2016). Ghrelin modulates encoding-related brain function without enhancing memory formation in humans. Neuroimage 142: 465-473. doi: 10.1016/j.neuroimage.2016.07.016
 
-Amsellem S, Ohla K (2016). Perceived Odor-Taste Congruence Influences Intensity and Pleasantness Differently. 10.1093/chemse/bjw078
-
-Hardikar S, Höchenberger R, Villringer A, Ohla K (2016). Higher sensitivity to sweet and salty taste in obese compared to lean individuals. 10.1016/j.appet.2016.12.017
-
-Sauer H, Ohla K, Dammann D, Teufel M, Zipfel S, Enck P, Mack I (2016). Changes in Gustatory Function and Taste Preference Following Weight Loss. 10.1016/j.jpeds.2016.11.055
+Amsellem S, Ohla K (2016). Perceived Odor-Taste Congruence Influences Intensity and Pleasantness Differently. Chemical Senses 41(8): 677–684. 
 
 # 2015
 Crouzet SM, Busch NA, Ohla K (2015). Taste quality decoding parallels taste sensations. 10.1016/j.cub.2015.01.057
