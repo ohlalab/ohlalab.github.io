@@ -6,8 +6,6 @@ description:
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
 
-this is a test edit. 
-
 # 2018
 Coming soon...
 
