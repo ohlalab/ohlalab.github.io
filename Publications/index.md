@@ -37,12 +37,12 @@ Blechert J, Meule A, Busch NA, Ohla K (2014). Food-pics: an image database for e
 
 Toepel U, Ohla K, Hudry J, le Coutre J, Murray MM (2014). Verbal labels selectively bias brain responses to high-energy foods. 10.1016/j.neuroimage.2013.10.038
 
-# 2015
+# 2013
 Dresler, M., Sandberg, A., Ohla, K., Bublitz, C., Trenado, C., Mroczko-Wasowicz, A., Kühn, S., Repantis, D. (2013). Non-pharmacological cognitive enhancement. 10.1016/j.neuropharm.2012.07.002
 
 Ohla K, Lundström JN (2013). Sex differences in chemosensation: sensory or emotional? 10.3389/fnhum.2013.00607
 
-# 2013
+# 2012
 Ohla K, Toepel U, le Coutre J, Hudry J (2012). Visual-gustatory interaction: orbitofrontal and insular cortices mediate the effect of high-calorie visual food cues on taste pleasantness. 10.1371/journal.pone.0032434
 
 Seubert J, Ohla K (2012). A dynamic cortical network encodes violations of expectancy during taste perception. 10.1523/jneurosci.6159-11.2012
