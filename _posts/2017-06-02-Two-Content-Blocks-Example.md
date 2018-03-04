@@ -3,6 +3,7 @@ layout: two_content_blocks_template
 title:
 date: 2017-02-15
 comments: true
+analytics: false 
 keywords:
 description:  
 image:

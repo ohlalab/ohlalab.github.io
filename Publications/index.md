@@ -2,6 +2,7 @@
 layout: default
 keywords:
 description:  
+analytics: false 
 ---
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
@@ -21,7 +22,7 @@ Hardikar S, Höchenberger R, Villringer A, Ohla K (2017). Higher sensitivity to 
 # 2016
 Kunath N, Müller NC, Tonon M, Konrad BN, Pawlowski M, Kopczak A, Elbau I, Uhr M, Kühn S, Repantis D et al. (2016). Ghrelin modulates encoding-related brain function without enhancing memory formation in humans. Neuroimage 142: 465-473. doi: 10.1016/j.neuroimage.2016.07.016
 
-Amsellem S, Ohla K (2016). Perceived Odor-Taste Congruence Influences Intensity and Pleasantness Differently. Chemical Senses 41(8): 677–684. 
+Amsellem S, Ohla K (2016). Perceived Odor-Taste Congruence Influences Intensity and Pleasantness Differently. Chemical Senses 41(8): 677–684.
 
 # 2015
 Crouzet SM, Busch NA, Ohla K (2015). Taste quality decoding parallels taste sensations. 10.1016/j.cub.2015.01.057

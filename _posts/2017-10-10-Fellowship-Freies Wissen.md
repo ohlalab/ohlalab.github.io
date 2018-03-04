@@ -2,6 +2,7 @@
 layout: post
 title: Fellowship “Freies Wissen”
 date: 2017-10-10
+analytics: false 
 comments: true
 keywords: Volkswagen Freies Wissen
 description: Richard Höchenberger was awarded by the Volkswagen Foundation

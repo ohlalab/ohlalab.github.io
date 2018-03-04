@@ -2,6 +2,7 @@
 layout: default
 keywords:
 description:  
+analytics: false 
 ---
 
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Multimodal interaction & integration

@@ -1,4 +1,4 @@
-jQuery.getJSON( "https://profiles.impactstory.org/api/person/0000-0001-7265-0449",  function(data) {
+jQuery.getJSON( "https://raw.githubusercontent.com/ohlalab/ohlalab.github.io/master/_data/ohla_impactstory.json",  function(data) {
     var output2017="<p class='social_media'>";
     var output2016="<p class='social_media'>";
     var output2015="<p class='social_media'>";
@@ -89,7 +89,7 @@ jQuery.getJSON( "https://profiles.impactstory.org/api/person/0000-0001-7265-0449
                 ;}
             ;}
 
-        var summary = "This page was automatically generated from data supplied by impactstory.com. News stories are grouped by the Article that generated the attention.";
+        var summary = "Some of the links below were automatically generated from data supplied by impactstory.com. <br> These news stories were grouped by the Article (in bold) that generated the media's attention.";
         document.getElementById("summary").innerHTML=summary;
         //
         document.getElementById("2017").innerHTML=output2017;

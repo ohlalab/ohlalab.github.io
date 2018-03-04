@@ -1,6 +1,7 @@
 ---
 layout: default
 keywords:
+analytics: false 
 description:  
 ---
 
