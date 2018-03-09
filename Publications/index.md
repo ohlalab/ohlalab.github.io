@@ -8,7 +8,8 @@ analytics: false
 Author copies of our previous publications are available upon request.
 
 # 2018
-Coming soon...
+Amsellem, S*, Höchenberger, R*, & Ohla, K (accepted). Visual-olfactory interactions: bimodal facilitation and impact on the subjective experience. Chemical Senses. https://academic.oup.com/chemse/advance-article/doi/10.1093/chemse/bjy018/4924708?guestAccessKey=142acb2b-5684-4c37-adb8-08edb8b59064
+
 
 # 2017
 Ohla, K., Höchenberger, R., Freiherr, J., & Lundström, J. N. (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical Senses, 43(1): 35-44. https://doi.org/10.1093/chemse/bjx068
