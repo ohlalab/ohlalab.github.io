@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funding taste research
+title: Funding for Richard's taste research
 date: 2017-10-11
 analytics: false 
 comments: true
