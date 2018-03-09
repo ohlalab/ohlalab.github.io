@@ -5,7 +5,9 @@ description:
 analytics: false 
 ---
 
-Institute of Neuroscience and Medicine (INM-3)<br>
 Forschungszentrum Jülich<br>
+Institute of Neuroscience and Medicine (INM-3)<br>
+Cognitive Neuroscience<br>
+Leo-Brandt-Str. 5
 52425 Jülich<br>
 Germany<br>
