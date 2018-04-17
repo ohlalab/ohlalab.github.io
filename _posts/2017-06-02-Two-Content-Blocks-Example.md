@@ -1,12 +1,12 @@
 ---
 layout: two_content_blocks_template
-title:
+title: The lab has moved to Jülich
 date: 2017-02-15
 comments: true
 analytics: false 
 keywords:
 description:  
 image:
-LeftContentBlock: <h1>Example of the first content block</h1><br>So this is the first content block.
-RightContentBlock: <h1>Example of the second content block</h1><br> And here is the second content block.
+LeftContentBlock: <h1>
+</h1><br>On January 1st 2018, we have moved to the Forschugszentrum Jülich. Stay tuned for updates.
 ---
