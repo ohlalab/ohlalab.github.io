@@ -4,11 +4,14 @@ keywords:
 description:  
 analytics: false 
 ---
+# Pre-prints
+Wallroth, R, & Ohla, K (2018). Delta activity encodes taste information in the human brain. BioRxiv. doi: https://doi.org/10.1101/300194
+
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
 
 # 2018
-Amsellem, S*, Höchenberger, R*, & Ohla, K (accepted). Visual-olfactory interactions: bimodal facilitation and impact on the subjective experience. Chemical Senses. https://academic.oup.com/chemse/advance-article/doi/10.1093/chemse/bjy018/4924708?guestAccessKey=142acb2b-5684-4c37-adb8-08edb8b59064
+Amsellem, S*, Höchenberger, R*, & Ohla, K (2018). Visual-olfactory interactions: bimodal facilitation and impact on the subjective experience. Chemical Senses. doi:10.1093/chemse/bjy018. https://academic.oup.com/chemse/advance-article/doi/10.1093/chemse/bjy018/4924708?guestAccessKey=142acb2b-5684-4c37-adb8-08edb8b59064
 
 
 # 2017
