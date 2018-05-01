@@ -13,6 +13,8 @@ We are seeking a motivated candidate with a background in Psychology, Neuroscien
 
 We offer salary and social benefits in conformity with the provisions of the Collective Agreement for the Civil Service (65% TVöD) and a three-year contract. 
 
+Please contact Kathrin Ohla for more information: k.ohla (at) fz-juelich.de
+
 <br><br>
 
 # <i class="fa fa-cog fa-1x" aria-hidden="true" style="center"></i> Abschlussarbeiten
