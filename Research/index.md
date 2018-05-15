@@ -14,8 +14,8 @@ Taste perception seldomly occurs in isolation but taste co-occurs rather with th
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Contextual effects on taste
 We constantly sample our environment for information or cues that arouse expectations about future events. What are the neural mechanisms by which expectations shape taste perception? What are the behavioral consequences of our neural states representing food in contexts? What is the role of prior experience and knowledge on food perception?
 
-## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Taste perception & obesity
-What are some of the psychological and neural determinants and consequences of overeating? Our lab is actively pursuing these socially important topics.
+## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Individual differences in taste perception
+The ability to taste shows large inter-individual variability. Studies suggest that it varies with age or body weight or even with experience. We study these phenomena and try to uncover their (psycho)physiological and biological bases. 
 
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Visual perception of food
 Together with our collaborators and vision scientists, our lab has developed a comprehensive database, Food.pics. Food.pics consists of images (and their properties) of food and non-food objects for research of food perception, eating, and appetite. You can find the link to download Food.Pics on our publications page.
