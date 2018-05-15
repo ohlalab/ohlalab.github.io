@@ -9,9 +9,9 @@ analytics: false
 The gustatory system is a gateway to nutrient sensing, yet it is the least understood of our senses. We ask how taste is represented in the human brain and how neural taste processing links to behavior. To address these questions, we develop stimulus techniques and experimental protocols suitable for psychophysical and psychophysiological studies. We are also actively assessing the reliability, validity, and practicality of these measures.
 
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Multimodal interaction & integration
-The visual appearance, smell, taste, sound, texture, and temperature of food all influence how we perceive, and eventually, accept or reject the food as ingestible. Food perception is therefore multisensory in nature and so is our research. We try to better describe how all these factors issue out in a final action at the neural and psychological level.
+Taste perception seldomly occurs in isolation but taste co-occurs rather with the visual appearance, smell, sound, touch, texture, and temperature of a food stimulus. All sensory inputs influence how we perceive, and eventually, accept or reject the food object. Food perception is therefore multisensory in nature and so is our research. We try to better describe how the different sensory systems interact to shape behavior and how they are integrated at the neural level.
 
-## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Contextual effects & taste
+## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Contextual effects on taste
 We constantly sample our environment for information or cues that arouse expectations about future events. What are the neural mechanisms by which expectations shape taste perception? What are the behavioral consequences of our neural states representing food in contexts? What is the role of prior experience and knowledge on food perception?
 
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Food perception & obesity
