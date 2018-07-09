@@ -11,11 +11,19 @@ Wallroth, R, & Ohla, K (2018). Delta activity encodes taste information in the h
 Author copies of our previous publications are available upon request.
 
 # 2018
-Amsellem, S*, Höchenberger, R*, & Ohla, K (2018). Visual-olfactory interactions: bimodal facilitation and impact on the subjective experience. Chemical Senses. doi:10.1093/chemse/bjy018. https://academic.oup.com/chemse/advance-article/doi/10.1093/chemse/bjy018/4924708?guestAccessKey=142acb2b-5684-4c37-adb8-08edb8b59064
 
+Hardikar S, Wallroth R, Villringer A, Ohla K (accepted). Shorter-lived neural taste representations in obese compared to lean individuals. Scientific Reports.
+
+Ohla K, Höchenberger R. (accepted). A bittersweet symphony: evidence for taste-sound correspondences without effects on taste quality-specific perception. Journal of Neuroscience Research.
+
+Lundström JN, Regenbogen C, Ohla K, Seubert J (accepted). Prefrontal Control Over Occipital Responses to Crossmodal Overlap Varies Across the Congruency Spectrum. Cerebral Cortex.
+
+Schwingshackl L, Ruzanska U, Anton V, Wallroth R, Ohla K, Knüppel S, Schulze M, Pischon T, Deutschbein J, Schenk L, Warschburger P, Harttig U, Boeing H, Bergmann M. (accepted). The NutriAct Family Study: a web-based prospective study on the psychological and sociological basis of food choice. BMC Public Health. 
+
+Amsellem, S*, Höchenberger, R*, & Ohla, K (2018). Visual-olfactory interactions: bimodal facilitation and impact on the subjective experience. Chemical Senses. 43(5):329-339. doi: 10.1093/chemse/bjy018.
 
 # 2017
-Ohla, K., Höchenberger, R., Freiherr, J., & Lundström, J. N. (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical Senses, 43(1): 35-44. https://doi.org/10.1093/chemse/bjx068
+Ohla K, Höchenberger R, Freiherr J, & Lundström JN (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical Senses, 43(1): 35-44. https://doi.org/10.1093/chemse/bjx068
 
 Höchenberger, R., & Ohla, K. (2017). Rapid Estimation of Gustatory Sensitivity Thresholds with SIAM and QUEST. Frontiers in Psychology 8:981. https://www.ncbi.nlm.nih.gov/pubmed/28670293
 
