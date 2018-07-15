@@ -5,12 +5,14 @@ description:
 analytics: false 
 ---
 # Pre-prints
-Wallroth, R, & Ohla, K (2018). Delta activity encodes taste information in the human brain. BioRxiv. https://doi.org/10.1101/300194
+Wallroth R, Ohla K (2018). Delta activity encodes taste information in the human brain. BioRxiv. https://doi.org/10.1101/300194
 
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
 
 # 2018
+
+Wallroth R, Höchenberger R, Ohla K (accepted). Delta activity encodes taste information in the human brain. Neuroimage.
 
 Hardikar S, Wallroth R, Villringer A, Ohla K (accepted). Shorter-lived neural taste representations in obese compared to lean individuals. Scientific Reports.
 
