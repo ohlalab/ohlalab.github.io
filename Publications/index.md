@@ -5,7 +5,9 @@ description:
 analytics: false 
 ---
 # Pre-prints
-Wallroth R, Ohla K (2018). Delta activity encodes taste information in the human brain. BioRxiv. https://doi.org/10.1101/300194
+Andersen CA, Alfine L, Ohla K, Höchenberger R (2018). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Zenodo. doi: 10.5281/zenodo.1313034.
+
+Wallroth R, Ohla K (2018). Delta activity encodes taste information in the human brain. BioRxiv. doi.org/10.1101/300194.
 
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
