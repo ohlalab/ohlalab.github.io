@@ -16,7 +16,7 @@ Author copies of our previous publications are available upon request.
 
 Wallroth R, Höchenberger R, Ohla K (2018). Delta activity encodes taste information in the human brain. Neuroimage. 181: 471-479. https://authors.elsevier.com/a/1XP-23lc~r3Fp3
 
-Hardikar S, Wallroth R, Villringer A, Ohla K (accepted). Shorter-lived neural taste representations in obese compared to lean individuals. Scientific Reports.
+Hardikar S, Wallroth R, Villringer A, Ohla K (2018). Shorter-lived neural taste representations in obese compared to lean individuals. Scientific Reports. 8:11027, doi: 10.1038/s41598-018-28847-3
 
 Höchenberger R., Ohla K (2018). A bittersweet symphony: evidence for taste-sound correspondences without effects on taste quality-specific perception. Journal of Neuroscience Research. DOI: 10.1002/jnr.24308
 
