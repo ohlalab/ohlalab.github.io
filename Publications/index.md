@@ -20,7 +20,7 @@ Hardikar S, Wallroth R, Villringer A, Ohla K (2018). Shorter-lived neural taste 
 
 Höchenberger R., Ohla K (2018). A bittersweet symphony: evidence for taste-sound correspondences without effects on taste quality-specific perception. Journal of Neuroscience Research. DOI: 10.1002/jnr.24308
 
-Lundström JN, Regenbogen C, Ohla K, Seubert J (accepted). Prefrontal Control Over Occipital Responses to Crossmodal Overlap Varies Across the Congruency Spectrum. Cerebral Cortex.
+Lundström JN, Regenbogen C, Ohla K, Seubert J (2018). Prefrontal Control Over Occipital Responses to Crossmodal Overlap Varies Across the Congruency Spectrum. Cerebral Cortex. doi.org/10.1093/cercor/bhy168
 
 Schwingshackl L, Ruzanska U, Anton V, Wallroth R, Ohla K, Knüppel S, Schulze M, Pischon T, Deutschbein J, Schenk L, Warschburger P, Harttig U, Boeing H, Bergmann M. (accepted). The NutriAct Family Study: a web-based prospective study on the psychological and sociological basis of food choice. BMC Public Health. 
 
