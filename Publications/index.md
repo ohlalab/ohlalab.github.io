@@ -14,26 +14,32 @@ Author copies of our previous publications are available upon request.
 
 # 2018
 
+Wallroth R & Ohla K (accepted for publication). As soon as you taste it - evidence for sequential and parallel processing of gustatory information. eNeuro.
+
+Andersen CA, Alfine L, Ohla K, & Höchenberger R (accepted for publication). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Behavioral Research Methods.
+
+Zoon HFA, Ohla K, de Graaf C, Boesveldt S (2018). Modulation of event-related potentials to food cues upon sensory-specific satiety. Physiol Behav. 196:126-134. doi: 10.1016/j.physbeh.2018.08.020
+
 Wallroth R, Höchenberger R, Ohla K (2018). Delta activity encodes taste information in the human brain. Neuroimage. 181: 471-479. https://authors.elsevier.com/a/1XP-23lc~r3Fp3
 
 Hardikar S, Wallroth R, Villringer A, Ohla K (2018). Shorter-lived neural taste representations in obese compared to lean individuals. Scientific Reports. 8:11027, doi: 10.1038/s41598-018-28847-3
 
-Höchenberger R., Ohla K (2018). A bittersweet symphony: evidence for taste-sound correspondences without effects on taste quality-specific perception. Journal of Neuroscience Research. DOI: 10.1002/jnr.24308
+Höchenberger R., Ohla K (2018). A bittersweet symphony: evidence for taste-sound correspondences without effects on taste quality-specific perception. Journal of Neuroscience Research. doi: 10.1002/jnr.24308
 
-Lundström JN, Regenbogen C, Ohla K, Seubert J (2018). Prefrontal Control Over Occipital Responses to Crossmodal Overlap Varies Across the Congruency Spectrum. Cerebral Cortex. doi.org/10.1093/cercor/bhy168
+Lundström JN, Regenbogen C, Ohla K, Seubert J (2018). Prefrontal Control Over Occipital Responses to Crossmodal Overlap Varies Across the Congruency Spectrum. Cerebral Cortex. doi: 10.1093/cercor/bhy168
 
-Schwingshackl L, Ruzanska U, Anton V, Wallroth R, Ohla K, Knüppel S, Schulze M, Pischon T, Deutschbein J, Schenk L, Warschburger P, Harttig U, Boeing H, Bergmann M. (accepted). The NutriAct Family Study: a web-based prospective study on the psychological and sociological basis of food choice. BMC Public Health. 
+Schwingshackl L, Ruzanska U, Anton V, Wallroth R, Ohla K, Knüppel S, Schulze M, Pischon T, Deutschbein J, Schenk L, Warschburger P, Harttig U, Boeing H, Bergmann M. (accepted). The NutriAct Family Study: a web-based prospective study on the psychological and sociological basis of food choice. BMC Public Health. 18(1):963. doi: 10.1186/s12889-018-5814-x.
 
 Amsellem, S*, Höchenberger, R*, & Ohla, K (2018). Visual-olfactory interactions: bimodal facilitation and impact on the subjective experience. Chemical Senses. 43(5):329-339. doi: 10.1093/chemse/bjy018.
 
 # 2017
-Ohla K, Höchenberger R, Freiherr J, & Lundström JN (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical Senses, 43(1): 35-44. https://doi.org/10.1093/chemse/bjx068
+Ohla K, Höchenberger R, Freiherr J, & Lundström JN (2017). Superadditive and Subadditive Neural Processing of Dynamic Auditory-Visual Objects in the Presence of Congruent Odors. Chemical Senses, 43(1): 35-44. doi: 10.1093/chemse/bjx068
 
 Höchenberger, R., & Ohla, K. (2017). Rapid Estimation of Gustatory Sensitivity Thresholds with SIAM and QUEST. Frontiers in Psychology 8:981. https://www.ncbi.nlm.nih.gov/pubmed/28670293
 
-Sauer H, Ohla K, Dammann D, Teufel M, Zipfel S, Enck P, Mack I (2017). Changes in Gustatory Function and Taste Preference Following Weight Loss. J Pediatr 182: 120-126. doi: 10.1016/j.jpeds.2016.11.055. Epub 2016 Dec 15.
+Sauer H, Ohla K, Dammann D, Teufel M, Zipfel S, Enck P, Mack I (2017). Changes in Gustatory Function and Taste Preference Following Weight Loss. J Pediatr 182: 120-126. doi: 10.1016/j.jpeds.2016.11.055. 
 
-Hardikar S, Höchenberger R, Villringer A, Ohla K (2017). Higher sensitivity to sweet and salty taste in obese compared to lean individuals. Appetite 111: 158-165. doi: 10.1016/j.appet.2016.12.017. Epub 2016 Dec 14
+Hardikar S, Höchenberger R, Villringer A, Ohla K (2017). Higher sensitivity to sweet and salty taste in obese compared to lean individuals. Appetite 111: 158-165. doi: 10.1016/j.appet.2016.12.017. 
 
 # 2016
 Kunath N, Müller NC, Tonon M, Konrad BN, Pawlowski M, Kopczak A, Elbau I, Uhr M, Kühn S, Repantis D et al. (2016). Ghrelin modulates encoding-related brain function without enhancing memory formation in humans. Neuroimage 142: 465-473. doi: 10.1016/j.neuroimage.2016.07.016
