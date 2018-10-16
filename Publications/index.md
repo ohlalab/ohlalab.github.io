@@ -14,7 +14,7 @@ Author copies of our previous publications are available upon request.
 
 # 2018
 
-Wallroth R & Ohla K (accepted for publication). As soon as you taste it - evidence for sequential and parallel processing of gustatory information. eNeuro.
+Wallroth R & Ohla K (2018). As soon as you taste it - evidence for sequential and parallel processing of gustatory information. eNeuro. ENEURO.0269-18.2018; DOI: https://doi.org/10.1523/ENEURO.0269-18.2018
 
 Andersen CA, Alfine L, Ohla K, & Höchenberger R (accepted for publication). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Behavioral Research Methods.
 
