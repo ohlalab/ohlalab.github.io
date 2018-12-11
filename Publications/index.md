@@ -5,6 +5,8 @@ description:
 analytics: false 
 ---
 # Pre-prints
+Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, & Chaudhari N. (2018). Recognizing taste: coding patterns along the neural axis in mammals. Zenodo. http://doi.org/10.5281/zenodo.1973234
+
 Andersen CA, Alfine L, Ohla K, Höchenberger R (2018). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Zenodo. doi: 10.5281/zenodo.1313034.
 
 Wallroth R, Ohla K (2018). Delta activity encodes taste information in the human brain. BioRxiv. doi.org/10.1101/300194.
@@ -16,7 +18,7 @@ Author copies of our previous publications are available upon request.
 
 Wallroth R & Ohla K (2018). As soon as you taste it - evidence for sequential and parallel processing of gustatory information. eNeuro. ENEURO.0269-18.2018; DOI: https://doi.org/10.1523/ENEURO.0269-18.2018
 
-Andersen CA, Alfine L, Ohla K, & Höchenberger R (accepted for publication). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Behavioral Research Methods.
+Andersen CA, Alfine L, Ohla K, & Höchenberger R (in press). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Behavioral Research Methods.
 
 Zoon HFA, Ohla K, de Graaf C, Boesveldt S (2018). Modulation of event-related potentials to food cues upon sensory-specific satiety. Physiol Behav. 196:126-134. doi: 10.1016/j.physbeh.2018.08.020
 
