@@ -16,14 +16,16 @@ Author copies of our previous publications are available upon request.
 
 # 2018
 
+Dresler M, Sandberg A, Bublitz C, Ohla K, Trenado C, Mroczko-Wąsowicz A, Kühn S, Repantis D. (In press). Hacking the brain: dimensions of cognitive enhancement. ACS Chem Neurosci. doi: 10.1021/acschemneuro.8b00571.
+
 Wallroth R & Ohla K (2018). As soon as you taste it - evidence for sequential and parallel processing of gustatory information. eNeuro. ENEURO.0269-18.2018; DOI: https://doi.org/10.1523/ENEURO.0269-18.2018
 
-Andersen CA, Alfine L, Ohla K, & Höchenberger R (in press). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Behavioral Research Methods.
+Andersen CA, Alfine L, Ohla K, & Höchenberger R (in press). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Behavioral Research Methods. doi: 10.3758/s13428-018-1145-1
 
 Zoon HFA, Ohla K, de Graaf C, Boesveldt S (2018). Modulation of event-related potentials to food cues upon sensory-specific satiety. Physiol Behav. 196:126-134. doi: 10.1016/j.physbeh.2018.08.020
 
-Wallroth R, Höchenberger R, Ohla K (2018). Delta activity encodes taste information in the human brain. Neuroimage. 181: 471-479. https://authors.elsevier.com/a/1XP-23lc~r3Fp3
-
+Wallroth R, Höchenberger R, Ohla K (2018). Delta activity encodes taste information in the human brain. Neuroimage. 181: 471-479. 
+ 
 Hardikar S, Wallroth R, Villringer A, Ohla K (2018). Shorter-lived neural taste representations in obese compared to lean individuals. Scientific Reports. 8:11027, doi: 10.1038/s41598-018-28847-3
 
 Höchenberger R., Ohla K (2018). A bittersweet symphony: evidence for taste-sound correspondences without effects on taste quality-specific perception. Journal of Neuroscience Research. doi: 10.1002/jnr.24308
