@@ -59,6 +59,8 @@ Seubert J, Ohla K, Yokomukai Y, Kellermann T, Lundström JN (2015). Superadditiv
 
 Höchenberger R, Busch NA, Ohla K (2015). Nonlinear response speedup in bimodal visual-olfactory object identification. 10.3389/fpsyg.2015.01477
 
+Meindl M, Ohla K. (2015). Die Farbe macht den Geschmack Farbwirkung in der Nahrungswahrnehmung (German). Ernährungsumschau 62:3, M163
+
 # 2014
 Blechert J, Meule A, Busch NA, Ohla K (2014). Food-pics: an image database for experimental research on eating and appetite. 10.3389/fpsyg.2014.00617
 
