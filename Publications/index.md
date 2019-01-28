@@ -5,11 +5,14 @@ description:
 analytics: false 
 ---
 # Pre-prints
+
+Höchenberger R, & Ohla K. (2019). Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method. Preprints: 2019010276. https://www.preprints.org/manuscript/201901.0276/v1
+
 Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, & Chaudhari N. (2018). Recognizing taste: coding patterns along the neural axis in mammals. Zenodo. http://doi.org/10.5281/zenodo.1973234
 
-Andersen CA, Alfine L, Ohla K, Höchenberger R (2018). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Zenodo. doi: 10.5281/zenodo.1313034.
+Andersen CA, Alfine L, Ohla K, Höchenberger R (2018). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Zenodo. doi: 10.5281/zenodo.1313034. Published in Behav. Research Methods.
 
-Wallroth R, Ohla K (2018). Delta activity encodes taste information in the human brain. BioRxiv. doi.org/10.1101/300194.
+Wallroth R, Ohla K (2018). Delta activity encodes taste information in the human brain. BioRxiv. doi.org/10.1101/300194. Published in Neuroimage.
 
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
