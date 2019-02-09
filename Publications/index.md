@@ -83,12 +83,12 @@ Author copies of our previous publications are available upon request.
 6. Ohla K, Busch NA, Lundström JN (2012). Time for Taste-A Review of the Early Cerebral Processing of Gustatory Perception. 10.1007/s12078-011-9106-4
 
 # 2005-2011
-5. Ohla K, Toepel U, le Coutre J, Hudry J (2010). Electrical neuroimaging reveals intensity-dependent activation of human cortical gustatory and somatosensory areas by electric taste. 10.1016/j.biopsycho.2010.09.007
+5- Ohla K, Toepel U, le Coutre J, Hudry J (2010). Electrical neuroimaging reveals intensity-dependent activation of human cortical gustatory and somatosensory areas by electric taste. 10.1016/j.biopsycho.2010.09.007
 
-4. Ohla K, Hudry J, le Coutre J (2009). The cortical chronometry of electrogustatory event-related potentials. 10.1007/s10548-009-0076-7
+4- Ohla K, Hudry J, le Coutre J (2009). The cortical chronometry of electrogustatory event-related potentials. 10.1007/s10548-009-0076-7
 
-3. Martinovic J, Gruber T, Ohla K, Müller MM (2009). Induced gamma-band activity elicited by visual representation of unattended objects. 10.1162/jocn.2009.21004
+3- Martinovic J, Gruber T, Ohla K, Müller MM (2009). Induced gamma-band activity elicited by visual representation of unattended objects. 10.1162/jocn.2009.21004
 
-2. Ohla K, Busch NA, Herrmann CS (2007). Early electrophysiological markers of visual awareness in the human brain. 10.1016/j.neuroimage.2007.06.010
+2- Ohla K, Busch NA, Herrmann CS (2007). Early electrophysiological markers of visual awareness in the human brain. 10.1016/j.neuroimage.2007.06.010
 
-1. Ohla K, Busch NA, Dahlem MA, Herrmann CS (2005). Circles are different: the perception of Glass patterns modulates early event-related potentials. 10.1016/j.visres.2005.03.015
+1- Ohla K, Busch NA, Dahlem MA, Herrmann CS (2005). Circles are different: the perception of Glass patterns modulates early event-related potentials. 10.1016/j.visres.2005.03.015
