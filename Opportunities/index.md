@@ -1,4 +1,4 @@
----
+c---
 layout: default
 keywords:
 description:
@@ -7,13 +7,8 @@ analytics: false
 
 # <i class="fa fa-cog fa-1x" aria-hidden="true" style="center"></i> Join the Lab as PhD student
 
-WE ARE HIRING!
-
-We are seeking a motivated candidate with a background in Psychology, Computational Neuroscience, Biology, or a related discipline to join the lab as PhD student. The project investigates taste perception and cognition and involves behavioral, EEG, and fMRI measures;  TMS, MEG, and tDCS are available as well. Solid programming skills and good command of English are required. Experience with EEG or fMRI data analysis and/or machine learning will be a plus. 
-
-We offer salary and social benefits in conformity with the provisions of the Collective Agreement for the Civil Service (65% TVöD) and a three-year contract. 
-
-Please contact Kathrin Ohla for more information: k.ohla (at) fz-juelich.de
+We have currently no positions available. 
+If you want to join the lab as PhD candidate with your own fnding and if you have a background in Psychology, Computational Neuroscience, Biology, or a related discipline please contact us: k.ohla (at) fz-juelich.de
 
 <br><br>
 
