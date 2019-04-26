@@ -6,7 +6,7 @@ analytics: false
 ---
 # Current pre-prints
 
-Höchenberger R, Ohla K. (2019). Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method. Preprints: 2019010276. https://www.preprints.org/manuscript/201901.0276/v1
+Höchenberger R, Ohla K. (2019). Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method. Preprints: 2019010276. https://www.preprints.org/manuscript/201901.0276/v2
 
 
 # Peer reviewed publications
@@ -14,7 +14,7 @@ Author copies of our previous publications are available upon request.
 
 
 # 2019
-35- Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, Chaudhari N. (accepted). Recognizing taste: coding patterns along the neural axis in mammals. Chemical Senses, bjz013, https://doi.org/10.1093/chemse/bjz013, (Preprint: Zenodo. http://doi.org/10.5281/zenodo.1973234)
+35- Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, Chaudhari N. (2019). Recognizing taste: coding patterns along the neural axis in mammals. Chemical Senses, 44(4): 237–247, https://doi.org/10.1093/chemse/bjz013, (Preprint: Zenodo. http://doi.org/10.5281/zenodo.1973234)
 
 34- Blechert J, Lender A, Polk S, Busch NA, Ohla K. (2019). Food-pics_extended—an image database for experimental research on eating and appetite: additional images, normative ratings and an updated review. Front. Psychol., doi: 10.3389/fpsyg.2019.00307
 
