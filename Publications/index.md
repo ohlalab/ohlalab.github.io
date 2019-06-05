@@ -6,7 +6,7 @@ analytics: false
 ---
 # Current pre-prints
 
-Iravani B,  Arshamian A, Ohla K, Wilson DA, Lundstrom JN. (2019). Non-invasive recording from the human olfactory bulb. BioRXiv. doi: 10.1101/660050
+Iravani B,  Arshamian A, Ohla K, Wilson DA, Lundstrom JN. (2019). [Non-invasive recording from the human olfactory bulb.](https://www.biorxiv.org/content/10.1101/660050v1) BioRXiv. doi: 10.1101/660050
 
 
 # Peer reviewed publications
