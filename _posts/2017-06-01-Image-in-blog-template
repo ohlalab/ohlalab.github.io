@@ -5,9 +5,12 @@ date: 2017-02-15
 comments: false
 analytics: false
 keywords:
-description:  
+description:
 image: ohla_cubed.png
 ---
+
+This blog post won't show because the filename is incorrect.
+
 **Figure 1.**
 
 This is a test template to show how the templates work.

@@ -2,12 +2,13 @@
 layout: default
 keywords:
 description:
-analytics: false 
+analytics: false
 ---
 
 <dl>
 {% for post in site.posts %}
 <h2> <dt><a href="{{ post.url }}" title="{{ post.title }}" class="blog-item">{{ post.title }}</a></dt></h2>
 <dd>{{ post.date | date_to_string }}</dd>
+<p>{{ post.excerpt }}</p>
 {% endfor %}
 </dl>
