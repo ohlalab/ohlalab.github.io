@@ -2,8 +2,8 @@
 layout: post
 title: Ajinomoto Award
 date: 2017-05-29
-analytics: false 
-comments: true
+analytics: false
+comments: false
 keywords: Neuroscience, Ajinomoto, Chemoreception, Gustation
 description: Dr. Kathrin Ohla, the 2017 Ajinomoto Award, the Association for Chemoreception Sciences.
 ---

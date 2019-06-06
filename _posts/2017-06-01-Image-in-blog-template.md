@@ -2,8 +2,8 @@
 layout: single_image_template
 title: Example of the single image template
 date: 2017-02-15
-comments: true
-analytics: false 
+comments: false
+analytics: false
 keywords:
 description:  
 image: ohla_cubed.png
