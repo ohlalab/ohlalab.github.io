@@ -14,7 +14,7 @@ Author copies of our previous publications are available upon request.
 
 # 2019
 
-36- Höchenberger R, Ohla K. (in press). Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method. Nutrients. (Preprint: Preprints, 2019, 2019010276).
+36- Höchenberger R, Ohla K. (2019). [Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method.](https://www.mdpi.com/2072-6643/11/6/1278) Nutrients. 11, 1278 (Preprint: Preprints, 2019, 2019010276).
 
 35- Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, Chaudhari N. (2019). Recognizing taste: coding patterns along the neural axis in mammals. Chemical Senses 44(4):237–247, doi: 10.1093/chemse/bjz013, (Preprint: Zenodo. www.zenodo.org/record/2564740).
 
