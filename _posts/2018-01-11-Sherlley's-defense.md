@@ -8,4 +8,4 @@ keywords: PhD
 description: Sherlley Amsellen sucessfully defended her PHD thesis at the WWU Münster.
 ---
 
-**Congratulations!**
+Sherlley Amsellen sucessfully defended her PHD thesis at the WWU Münster. **Congratulations!**
