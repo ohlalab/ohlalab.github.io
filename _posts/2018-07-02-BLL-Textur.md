@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essen mit allen Sinnen - Textur und Temperatur
-date: 
+date: 2018-07-22
 analytics: false
 comments: false
 keywords: Ohla Geschmack Textur Bund Lebensmittelrecht und Lebensmittelkunde
