@@ -5,6 +5,8 @@ description:
 analytics: false
 ---
 
+# <i class="fa fa-cog fa-1x" aria-hidden="true" style="center"></i> Join the lab
+
 We have currently no positions available.
 If you want to join the lab as PhD student or visiting scholar with your own fnding and if you have a background in Psychology, Computational Neuroscience, Biology, or a related discipline please contact us: k.ohla (at) fz-juelich.de
 
