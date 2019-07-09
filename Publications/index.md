@@ -14,6 +14,8 @@ Author copies of our previous publications are available upon request.
 
 # 2019
 
+xx- Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019). [PsychoPy2: Experiments in behavior made easy.] (https://link.springer.com/article/10.3758%2Fs13428-018-01193-y) Behav Res Methods 51(1):195-203. doi: 10.3758/s13428-018-01193-y.
+
 36- Höchenberger R, Ohla K. (2019). [Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method.](https://www.mdpi.com/2072-6643/11/6/1278) Nutrients. 11, 1278 (Preprint: Preprints, 2019, 2019010276).
 
 35- Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, Chaudhari N. (2019). Recognizing taste: coding patterns along the neural axis in mammals. Chemical Senses 44(4):237–247, doi: 10.1093/chemse/bjz013, (Preprint: Zenodo. www.zenodo.org/record/2564740).
