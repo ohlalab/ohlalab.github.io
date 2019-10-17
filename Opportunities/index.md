@@ -7,7 +7,10 @@ analytics: false
 
 # <i class="fa fa-cog fa-1x" aria-hidden="true" style="center"></i> Join the lab
 
-We have currently no positions available.
+We are seeking a motivated POSTDOC to join the lab as soon as possible! 
+For information, email Kathrin directly k.ohla @ fz-juelich.de.
+
+
 If you want to join the lab as PhD student or visiting scholar with your own fnding and if you have a background in Psychology, Computational Neuroscience, Biology, or a related discipline please contact us: k.ohla (at) fz-juelich.de
 
 <br><br>
