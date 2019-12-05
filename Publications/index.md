@@ -7,7 +7,7 @@ analytics: false
 
 # Current pre-prints
 
-Höchenberger R, Ohla K. Repeatability of taste recognition threshold measurements with QUEST and quick Yes-No. Preprints, 2019,
+Höchenberger R, Ohla K. Repeatability of taste recognition threshold measurements with QUEST and quick Yes-No. [Zenodo](https://zenodo.org/record/3540535#.Xej5T-hKhaQ)
 
 Iravani B,  Arshamian A, Ohla K, Wilson DA, Lundstrom JN. [Non-invasive recording from the human olfactory bulb.](https://www.biorxiv.org/content/10.1101/660050v1) BioRXiv. doi: 10.1101/660050
 
