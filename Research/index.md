@@ -9,7 +9,7 @@ analytics: false
 The gustatory system is a gateway to nutrient sensing, yet it is the least understood of our senses. We ask how taste is represented in the human brain and how neural taste processing links to behavior. To address these questions, we also develop long-needed stimulation and experimental protocols suited for psychophysical and psychophysiological studies and we are assessing the reliability, validity, and practicality of these measures and procedures.
 
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i> Taste memory
-In a new line of research, we investigate the properties of taste memory: Can we store taste information? What is the capacity of this store and what are the rules for optimal retrieval?
+Have you evered wondered whether we can memorize taste? We have, so we started a new project to investigate the properties of taste memory. We ask: Can we store taste information? What is the capacity of this store? What are the rules for optimal retrieval? 
 
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Contextual effects on taste
 We constantly sample our environment for information or cues that arouse expectations about future events. What are the neural mechanisms by which expectations shape taste perception? What are the behavioral consequences of our neural states representing food in contexts? What is the role of prior experience and knowledge on taste and food perception?
