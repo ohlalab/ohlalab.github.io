@@ -18,13 +18,13 @@ Author copies of our previous publications are available upon request.
 # 2019
 38- Iravani B,  Arshamian A, Ohla K, Wilson DA, Lundstrom JN. Non-invasive recording from the human olfactory bulb. (accepted). Nature Communications. (Preprint: BioRxiv. doi: 10.1101/660050v1).
 
-37- Höchenberger R, Ohla K. Repeatability of taste recognition threshold measurements with QUEST and quick Yes-No. (accepted). Nutrients. (Preprint and data: Zenodo. doi: [10.5281/zenodo.3540535](https://www.zenodo.org/record/3540535#.XfNYmGRKhaQ)).
+37- Höchenberger R, Ohla K. Repeatability of taste recognition threshold measurements with QUEST and quick Yes-No. (accepted). Nutrients. (Preprint and data, doi: [10.5281/zenodo.3540535](https://www.zenodo.org/record/3540535#.XfNYmGRKhaQ)).
 
-36- Höchenberger R, Ohla K. (2019). [Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method.](https://www.mdpi.com/2072-6643/11/6/1278) Nutrients. 11, 1278 (Preprint and data: Zenodo. doi: [10.5281/zenodo.2650373](https://zenodo.org/record/2650373#.XfNYKGRKhaQ).
+36- Höchenberger R, Ohla K. (2019). [Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method.](https://www.mdpi.com/2072-6643/11/6/1278) Nutrients. 11, 1278 (Preprint and data, doi: [10.5281/zenodo.2650373](https://zenodo.org/record/2650373#.XfNYKGRKhaQ)).
 
-35- Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, Chaudhari N. (2019). Recognizing taste: coding patterns along the neural axis in mammals. Chemical Senses 44(4):237–247, doi: 10.1093/chemse/bjz013, (Preprint: Zenodo. www.zenodo.org/record/2564740).
+35- Ohla K, Yoshida R, Roper SD, Di Lorenzo PM, Victor JD, Boughter Jr. JD, Fletcher M, Katz DB, Chaudhari N. (2019). Recognizing taste: coding patterns along the neural axis in mammals. Chemical Senses 44(4):237–247, doi: 10.1093/chemse/bjz013, (Preprint, doi: [10.5281/zenodo.2564740](www.zenodo.org/record/2564740)).
 
-34- Andersen CA, Alfine L, Ohla K, Höchenberger R (in press). [A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch.](https://link.springer.com/article/10.3758%2Fs13428-018-1145-1) Behavioral Research Methods, doi: 10.3758/s13428-018-1145-1 (Preprint: www.zenodo.org/record/1313034).
+34- Andersen CA, Alfine L, Ohla K, Höchenberger R (in press). [A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch.](https://link.springer.com/article/10.3758%2Fs13428-018-1145-1) Behavioral Research Methods, doi: 10.3758/s13428-018-1145-1 (Preprint, doi: [10.5281/zenodo.1313034](www.zenodo.org/record/1313034)).
 
 33- Blechert J, Lender A, Polk S, Busch NA, Ohla K. (2019). Food-pics_extended—an image database for experimental research on eating and appetite: additional images, normative ratings and an updated review. Frontiers in Psychology 10:307, doi: 10.3389/fpsyg.2019.00307.
 
