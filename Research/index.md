@@ -14,6 +14,9 @@ Taste perception has long been overlooked in sensory assessments. This can, at l
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i> Taste memory
 Have you evered wondered whether we can memorize taste? We have -- that's why we started a new project to investigate the properties of taste memory. We ask: Can we store taste information? What is the capacity of this store? What are the rules for optimal retrieval? 
 
+## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i> NutriAct - Competence Cluster Nutrition Research
+As part of the Competence Cluster Nutrition Research [NutriAct](http://www.nutriact.de) we are investigating neurobiological, psychological, and social bases of food choice and the role of the familial environment on nutritional behavior within the [NutriAct Family Study](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5814-x). For this we combine cross-disciplinary expertises and methods sich as nutritional and psychological questionnaires, antropometry, biomarkers, activity, taste and smell tests, psychological experiments of food choice and perception, and qualitative interviews. 
+
 ## <i class="fa fa-folder-open-o fa-2x" aria-hidden="true" style="center"></i>  Contextual effects on taste
 We constantly sample our environment for information or cues that arouse expectations about future events. What are the neural mechanisms by which expectations shape taste perception? What are the behavioral consequences of our neural states representing food in contexts? What is the role of prior experience and knowledge on taste and food perception? The results are not only exciting but bear the potential to lead to immediate application in food advertisement and packing but also nutritional interventions (framing).
 
