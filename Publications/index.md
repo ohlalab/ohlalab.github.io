@@ -7,18 +7,19 @@ analytics: false
 
 # Current pre-prints
 
-Höchenberger R, Ohla K. [Repeatability of taste recognition threshold measurements with QUEST and quick Yes-No.](https://zenodo.org/record/3540535#.Xej5T-hKhaQ), Zenodo. doi: 10.5281/zenodo.3540535
-
 Iravani B,  Arshamian A, Ohla K, Wilson DA, Lundstrom JN. [Non-invasive recording from the human olfactory bulb.](https://www.biorxiv.org/content/10.1101/660050v1) BioRXiv. doi: 10.1101/660050
 
 
 # Peer reviewed publications
 Author copies of our previous publications are available upon request.
 
-# 2019
+# 2020
+
 38- Iravani B,  Arshamian A, Ohla K, Wilson DA, Lundstrom JN. Non-invasive recording from the human olfactory bulb. (accepted). Nature Communications. (Preprint: BioRxiv. doi: 10.1101/660050v1).
 
-37- Höchenberger R, Ohla K. Repeatability of taste recognition threshold measurements with QUEST and quick Yes-No. (accepted). Nutrients. (Preprint and data, doi: [10.5281/zenodo.3540535](https://www.zenodo.org/record/3540535#.XfNYmGRKhaQ)).
+37- Höchenberger R, Ohla K. [Repeatability of taste recognition threshold measurements with QUEST and quick Yes-No.](https://www.mdpi.com/2072-6643/12/1/24/htm) (2020). Nutrients. (Preprint and data, doi: [10.5281/zenodo.3540535](https://www.zenodo.org/record/3540535#.XfNYmGRKhaQ)).
+
+# 2019
 
 36- Höchenberger R, Ohla K. (2019). [Estimation of Olfactory Sensitivity Using a Bayesian Adaptive Method.](https://www.mdpi.com/2072-6643/11/6/1278) Nutrients. 11, 1278 (Preprint and data, doi: [10.5281/zenodo.2650373](https://zenodo.org/record/2650373#.XfNYKGRKhaQ)).
 
